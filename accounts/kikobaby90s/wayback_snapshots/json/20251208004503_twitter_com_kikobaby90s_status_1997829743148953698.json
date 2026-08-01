@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1997829743148953698",
+    "created_at": "2025-12-08T00:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T01:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997829743148953698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688397365336850432",
+          "start": 3,
+          "username": "nkqlbxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997829743148953698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997677296543838669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nkqlbxc: 我发现我的xp越来越变态了 \n不是什么制服play \n是他凌晨三点醒来帮我盖被子\n是doi时他突然停下来吻我额头\n是他硬着JB却温柔问我还行吗\n比高潮更上头的是事后他把我抱进怀里像抱一滩烂泥一样说：宝贝别怕\n妈的！我不想要技巧 \n我只想要个做完爱会陪我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1997829743148953698",
+        "created_at": "2025-12-08T00:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T01:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997829743148953698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688397365336850432",
+              "start": 3,
+              "username": "nkqlbxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997829743148953698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997677296543838669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nkqlbxc: 我发现我的xp越来越变态了 \n不是什么制服play \n是他凌晨三点醒来帮我盖被子\n是doi时他突然停下来吻我额头\n是他硬着JB却温柔问我还行吗\n比高潮更上头的是事后他把我抱进怀里像抱一滩烂泥一样说：宝贝别怕\n妈的！我不想要技巧 \n我只想要个做完爱会陪我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688397365336850432",
+        "conversation_id": "1997677296543838669",
+        "created_at": "2025-12-07T14:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T15:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997677296543838669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997677296543838669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 89985,
+          "like_count": 1268,
+          "quote_count": 17,
+          "reply_count": 58,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我的xp越来越变态了 \n不是什么制服play \n是他凌晨三点醒来帮我盖被子\n是doi时他突然停下来吻我额头\n是他硬着JB却温柔问我还行吗\n比高潮更上头的是事后他把我抱进怀里像抱一滩烂泥一样说：宝贝别怕\n妈的！我不想要技巧 \n我只想要个做完爱会陪我哭的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 42,
+          "like_count": 258,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 141
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1996944506026185176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84756,
+          "following_count": 88,
+          "like_count": 592,
+          "listed_count": 90,
+          "media_count": 1611,
+          "tweet_count": 2300
+        },
+        "username": "nkqlbxc",
+        "verified": true
+      }
+    ]
+  }
+}

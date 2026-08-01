@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1948815001156026880",
+    "created_at": "2025-10-15T04:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T05:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978320028136308763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509497623727808517",
+          "start": 0,
+          "username": "zhangyu36959845"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978320028136308763",
+    "in_reply_to_user_id": "1509497623727808517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978291279860531410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangyu36959845 这简直是危言耸听"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1948815001156026880",
+        "created_at": "2025-10-15T04:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T05:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978320028136308763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509497623727808517",
+              "start": 0,
+              "username": "zhangyu36959845"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978320028136308763",
+        "in_reply_to_user_id": "1509497623727808517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978291279860531410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangyu36959845 这简直是危言耸听"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509497623727808517",
+        "conversation_id": "1948815001156026880",
+        "created_at": "2025-10-15T02:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T03:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978291279860531410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978291279860531410",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948815001156026880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 你炸鱼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 43,
+          "like_count": 252,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 133
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-31T11:47:45.000Z",
+        "description": "",
+        "id": "1509497623727808517",
+        "name": "spark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978113486493294593/IEksV5tt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 185,
+          "like_count": 714,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 309
+        },
+        "username": "zhangyu36959845",
+        "verified": false
+      }
+    ]
+  }
+}

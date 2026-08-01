@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1936702466718093762",
+    "created_at": "2025-06-22T08:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T09:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936702466718093762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nexxxkooo/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nexxxkooo/status/1935895813936627995",
+          "start": 9,
+          "url": "https://t.co/CVON8vb5PW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936702466718093762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935895813936627995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁帮帮我们小猫🐱 https://t.co/CVON8vb5PW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1936702466718093762",
+        "created_at": "2025-06-22T08:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T09:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936702466718093762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nexxxkooo/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nexxxkooo/status/1935895813936627995",
+              "start": 9,
+              "url": "https://t.co/CVON8vb5PW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936702466718093762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935895813936627995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁帮帮我们小猫🐱 https://t.co/CVON8vb5PW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544904381593632773",
+        "conversation_id": "1935895813936627995",
+        "created_at": "2025-06-20T03:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T04:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935895813936627995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NexxxkooO/stat…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/NexxxkooO/status/1935895059574276379",
+              "start": 53,
+              "url": "https://t.co/Pa2k841E3c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935895813936627995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1601,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935895059574276379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原单也可能卖，图也可以卖，线下纯绿半绿爸爸活妈妈活sp我都接…看看小猫吧…小猫如果赚不到学费的话就去死掉 https://t.co/Pa2k841E3c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "1921233094088003656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 30,
+          "like_count": 206,
+          "listed_count": 2,
+          "media_count": 17,
+          "tweet_count": 110
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T04:41:36.000Z",
+        "description": "世界一番ネコ姫様ですわ！！！！！",
+        "id": "1544904381593632773",
+        "location": "無断転載&無断使用×",
+        "name": "无人在意的角落里我悄悄死去了",
+        "pinned_tweet_id": "1762775884908659097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711446819551797248/ahlFUm39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8222,
+          "following_count": 594,
+          "like_count": 39908,
+          "listed_count": 19,
+          "media_count": 433,
+          "tweet_count": 3888
+        },
+        "username": "NexxxkooO",
+        "verified": false
+      }
+    ]
+  }
+}

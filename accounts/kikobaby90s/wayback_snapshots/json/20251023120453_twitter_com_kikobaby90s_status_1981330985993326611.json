@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1951124006066589851",
+    "created_at": "2025-10-23T12:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T13:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981330985993326611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849450365462417408",
+          "start": 0,
+          "username": "mojorrrrrrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981330985993326611",
+    "in_reply_to_user_id": "1849450365462417408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981078475806298359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mojorrrrrrr 抖音找的🌚上面一堆发龟甲缚的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1951124006066589851",
+        "created_at": "2025-10-23T12:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T13:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981330985993326611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849450365462417408",
+              "start": 0,
+              "username": "mojorrrrrrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981330985993326611",
+        "in_reply_to_user_id": "1849450365462417408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981078475806298359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mojorrrrrrr 抖音找的🌚上面一堆发龟甲缚的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849450365462417408",
+        "conversation_id": "1951124006066589851",
+        "created_at": "2025-10-22T19:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T20:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981078475806298359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981078475806298359",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951124006066589851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 求教程"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 44,
+          "like_count": 256,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 135
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T13:58:31.000Z",
+        "description": "享受嘴臭 你妈逼的别惹我      ｜  提问箱✉️：https://t.co/tjGkVmWKIo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/199591",
+                "end": 50,
+                "expanded_url": "https://ngl.link/199591",
+                "start": 27,
+                "url": "https://t.co/tjGkVmWKIo"
+              }
+            ]
+          }
+        },
+        "id": "1849450365462417408",
+        "name": "我是屌丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975502836176965632/UaoWHcNJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 27,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 512
+        },
+        "username": "mojorrrrrrr",
+        "verified": false
+      }
+    ]
+  }
+}

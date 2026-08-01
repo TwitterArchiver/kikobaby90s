@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1923777707143463190",
+    "created_at": "2025-05-17T16:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-17T17:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1923780125650530518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1544904381593632773",
+          "start": 0,
+          "username": "NexxxkooO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923780125650530518",
+    "in_reply_to_user_id": "1544904381593632773",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923777707143463190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NexxxkooO 猫猫～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18877,
+        "height": 720,
+        "media_key": "7_1923777645210214400",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1923777645210214400/pu/img/5cARpGzlm0LqGkrB.jpg",
+        "public_metrics": {
+          "view_count": 11
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923777645210214400/pu/vid/avc1/480x270/8QMJtXcuKc3VLvPu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923777645210214400/pu/vid/avc1/640x360/M_gaRNPoHZM5dgKZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1923777645210214400/pu/vid/avc1/1280x720/uljOrB7lYCaC6wKw.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1923777645210214400/pu/pl/1wJvABHTylH9rS_l.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1923777707143463190",
+        "created_at": "2025-05-17T16:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T17:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1923780125650530518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1544904381593632773",
+              "start": 0,
+              "username": "NexxxkooO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923780125650530518",
+        "in_reply_to_user_id": "1544904381593632773",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923777707143463190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NexxxkooO 猫猫～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1923777645210214400"
+          ]
+        },
+        "author_id": "1544904381593632773",
+        "conversation_id": "1923777707143463190",
+        "created_at": "2025-05-17T16:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T17:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923777707143463190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PB1bE4HACv",
+              "end": 23,
+              "expanded_url": "https://x.com/NexxxkooO/status/1923777707143463190/video/1",
+              "media_key": "7_1923777645210214400",
+              "start": 0,
+              "url": "https://t.co/PB1bE4HACv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923777707143463190",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PB1bE4HACv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩",
+        "id": "1745165412441206784",
+        "location": "🚪128",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 27,
+          "like_count": 108,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 62
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T04:41:36.000Z",
+        "description": "世界一番ネコ姫様ですわ！！！！！",
+        "id": "1544904381593632773",
+        "location": "無断転載&無断使用×",
+        "name": "无人在意的角落里我悄悄死去了",
+        "pinned_tweet_id": "1762775884908659097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711446819551797248/ahlFUm39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8250,
+          "following_count": 600,
+          "like_count": 40346,
+          "listed_count": 19,
+          "media_count": 422,
+          "tweet_count": 3866
+        },
+        "username": "NexxxkooO",
+        "verified": false
+      }
+    ]
+  }
+}

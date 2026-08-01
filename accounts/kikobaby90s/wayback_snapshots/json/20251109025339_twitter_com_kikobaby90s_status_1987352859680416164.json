@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987352822497878017",
+        "3_1987352822455918592"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1987352859680416164",
+    "created_at": "2025-11-09T02:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T03:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987352859680416164"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4bzLk09hnT",
+          "end": 38,
+          "expanded_url": "https://x.com/kikobaby90s/status/1987352859680416164/photo/1",
+          "media_key": "3_1987352822497878017",
+          "start": 15,
+          "url": "https://t.co/4bzLk09hnT"
+        },
+        {
+          "display_url": "pic.x.com/4bzLk09hnT",
+          "end": 38,
+          "expanded_url": "https://x.com/kikobaby90s/status/1987352859680416164/photo/1",
+          "media_key": "3_1987352822455918592",
+          "start": 15,
+          "url": "https://t.co/4bzLk09hnT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987352859680416164",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不行了 500粉都能被偷图 https://t.co/4bzLk09hnT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987352822497878017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5R-3NRbIAEeHSq.jpg",
+        "width": 932
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987352822455918592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5R-3NHa4AAUsaj.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987352822497878017",
+            "3_1987352822455918592"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "1987352859680416164",
+        "created_at": "2025-11-09T02:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T03:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987352859680416164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bzLk09hnT",
+              "end": 38,
+              "expanded_url": "https://x.com/kikobaby90s/status/1987352859680416164/photo/1",
+              "media_key": "3_1987352822497878017",
+              "start": 15,
+              "url": "https://t.co/4bzLk09hnT"
+            },
+            {
+              "display_url": "pic.x.com/4bzLk09hnT",
+              "end": 38,
+              "expanded_url": "https://x.com/kikobaby90s/status/1987352859680416164/photo/1",
+              "media_key": "3_1987352822455918592",
+              "start": 15,
+              "url": "https://t.co/4bzLk09hnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987352859680416164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了 500粉都能被偷图 https://t.co/4bzLk09hnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 39,
+          "like_count": 255,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 141
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

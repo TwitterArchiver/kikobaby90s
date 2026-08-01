@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1927094704786534793",
+    "created_at": "2025-05-26T20:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T21:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927094704786534793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1660276482030342145",
+          "start": 3,
+          "username": "i1314151241475i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927094704786534793",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926827935878508830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i1314151241475i: 我每次点开微信钱包就会手抖是不是躯体化"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1927094704786534793",
+        "created_at": "2025-05-26T20:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T21:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927094704786534793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1660276482030342145",
+              "start": 3,
+              "username": "i1314151241475i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927094704786534793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926827935878508830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i1314151241475i: 我每次点开微信钱包就会手抖是不是躯体化"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660276482030342145",
+        "conversation_id": "1926827935878508830",
+        "created_at": "2025-05-26T02:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T03:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926827935878508830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926827935878508830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6148,
+          "like_count": 118,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我每次点开微信钱包就会手抖是不是躯体化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "1921233094088003656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 30,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 94
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-21T13:29:11.000Z",
+        "description": "喜欢可爱的人 推广关评自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=RxOjXpbL",
+                "start": 0,
+                "url": "https://t.co/TMNyyogDFX"
+              }
+            ]
+          }
+        },
+        "id": "1660276482030342145",
+        "name": "煎饺神",
+        "pinned_tweet_id": "1926187743480095049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908162540636667904/9x9Vjclb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7919,
+          "following_count": 209,
+          "like_count": 7786,
+          "listed_count": 9,
+          "media_count": 144,
+          "tweet_count": 3258
+        },
+        "url": "https://t.co/TMNyyogDFX",
+        "username": "i1314151241475i",
+        "verified": false
+      }
+    ]
+  }
+}

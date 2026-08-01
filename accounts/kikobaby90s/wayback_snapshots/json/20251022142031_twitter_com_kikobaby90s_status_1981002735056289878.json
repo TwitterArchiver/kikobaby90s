@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1980584050201894912"
+      ],
+      "media_source_tweet_id": [
+        "1980584108872040889"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1981002735056289878",
+    "created_at": "2025-10-22T14:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981002735056289878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1558836599177166848",
+          "start": 3,
+          "username": "Charlot_chaton"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o7vikzJ7tB",
+          "end": 65,
+          "expanded_url": "https://x.com/Charlot_chaton/status/1980584108872040889/video/1",
+          "media_key": "13_1980584050201894912",
+          "start": 42,
+          "url": "https://t.co/o7vikzJ7tB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981002735056289878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980584108872040889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Charlot_chaton: Brat是這樣的^ ̳- ‧̫ • ̳^ฅ https://t.co/o7vikzJ7tB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8151,
+        "height": 1280,
+        "media_key": "13_1980584050201894912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1980584050201894912/img/6DGbG1qGlL2IkwON.jpg",
+        "public_metrics": {
+          "view_count": 11632
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980584050201894912/vid/avc1/320x580/PdUYQ6MAU6X5voKN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980584050201894912/vid/avc1/480x872/oTp18GUNFREZFJ1Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1980584050201894912/vid/avc1/704x1280/XUgExNrMq3C29xYb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1980584050201894912/pl/-1T1s3heSsN-IZgp.m3u8"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980584050201894912"
+          ],
+          "media_source_tweet_id": [
+            "1980584108872040889"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "1981002735056289878",
+        "created_at": "2025-10-22T14:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981002735056289878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1558836599177166848",
+              "start": 3,
+              "username": "Charlot_chaton"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7vikzJ7tB",
+              "end": 65,
+              "expanded_url": "https://x.com/Charlot_chaton/status/1980584108872040889/video/1",
+              "media_key": "13_1980584050201894912",
+              "start": 42,
+              "url": "https://t.co/o7vikzJ7tB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981002735056289878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980584108872040889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Charlot_chaton: Brat是這樣的^ ̳- ‧̫ • ̳^ฅ https://t.co/o7vikzJ7tB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1980584050201894912"
+          ]
+        },
+        "author_id": "1558836599177166848",
+        "conversation_id": "1980584108872040889",
+        "created_at": "2025-10-21T10:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980584108872040889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o7vikzJ7tB",
+              "end": 45,
+              "expanded_url": "https://x.com/Charlot_chaton/status/1980584108872040889/video/1",
+              "media_key": "13_1980584050201894912",
+              "start": 22,
+              "url": "https://t.co/o7vikzJ7tB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980584108872040889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 48610,
+          "like_count": 982,
+          "quote_count": 34,
+          "reply_count": 31,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "Brat是這樣的^ ̳- ‧̫ • ̳^ฅ https://t.co/o7vikzJ7tB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 43,
+          "like_count": 253,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 134
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-14T15:23:18.000Z",
+        "description": "小夏—三次元爆炸的貓貓｜是個以情感及氛圍為食的Bratty Sub｜喜歡SP & TK & 強高 & 抱抱摸頭貼貼｜喜歡D/S，但狀態消失中。60% CNC｜這裡會發一堆廢話哦(^^)",
+        "id": "1558836599177166848",
+        "name": "夏—地獄online",
+        "pinned_tweet_id": "1961851747586236675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971937673515589632/DzOMqGtI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 491,
+          "like_count": 12283,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 1836
+        },
+        "username": "Charlot_chaton",
+        "verified": false
+      }
+    ]
+  }
+}

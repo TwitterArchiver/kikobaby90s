@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2026401963282411627",
+    "created_at": "2026-02-25T06:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T07:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026551944446357529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883286192575389696",
+          "start": 0,
+          "username": "xjj5201314_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026551944446357529",
+    "in_reply_to_user_id": "1883286192575389696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026401963282411627",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjj5201314_ 为什么偷拍我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "16_2026401929178578944",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HB850XjbAAAfR8a.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HB850XjbAAAfR8a.mp4"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2026401963282411627",
+        "created_at": "2026-02-25T06:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T07:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026551944446357529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883286192575389696",
+              "start": 0,
+              "username": "xjj5201314_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026551944446357529",
+        "in_reply_to_user_id": "1883286192575389696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026401963282411627",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjj5201314_ 为什么偷拍我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2026401929178578944"
+          ]
+        },
+        "author_id": "1883286192575389696",
+        "conversation_id": "2026401963282411627",
+        "created_at": "2026-02-24T21:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T22:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026401963282411627"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ze7PA7Kg8Y",
+              "end": 31,
+              "expanded_url": "https://x.com/xjj5201314_/status/2026401963282411627/photo/1",
+              "media_key": "16_2026401929178578944",
+              "start": 8,
+              "url": "https://t.co/ze7PA7Kg8Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026401963282411627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卡戴3踢足球中 https://t.co/ze7PA7Kg8Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 46,
+          "like_count": 275,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T22:50:18.000Z",
+        "description": "重生之我还想做女网黄 我的前世@ljjjj101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ljjjj101"
+              }
+            ]
+          }
+        },
+        "id": "1883286192575389696",
+        "location": "🚪128/168可验证",
+        "name": "ho hni",
+        "pinned_tweet_id": "1927322996672213368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883287727036411904/cLL9pyaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 252,
+          "like_count": 121,
+          "listed_count": 10,
+          "media_count": 134,
+          "tweet_count": 462
+        },
+        "username": "xjj5201314_",
+        "verified": false
+      }
+    ]
+  }
+}

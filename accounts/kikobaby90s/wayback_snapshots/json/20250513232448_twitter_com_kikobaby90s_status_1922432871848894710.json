@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922432863317692416"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1922432871848894710",
+    "created_at": "2025-05-13T23:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-14T00:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922432871848894710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NrrPeQXwb2",
+          "end": 23,
+          "expanded_url": "https://x.com/kikobaby90s/status/1922432871848894710/photo/1",
+          "media_key": "3_1922432863317692416",
+          "start": 0,
+          "url": "https://t.co/NrrPeQXwb2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922432871848894710",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NrrPeQXwb2"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922432871848894710].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922432871848894710",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922432871848894710"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1922432863317692416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gq3agPKWkAA3d4_.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩",
+        "id": "1745165412441206784",
+        "location": "🚪128 私信只回口令",
+        "name": "RuGirll5BaBe1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 22,
+          "like_count": 64,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1615831652592422914",
+    "conversation_id": "1620048099740909568",
+    "created_at": "2023-01-30T13:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-30T14:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1620055422957916161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585204501149110274",
+          "start": 0,
+          "username": "jiajia1216ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1620055422957916161",
+    "in_reply_to_user_id": "1585204501149110274",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1620054684353581057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia1216ovo 老公"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1615831652592422914",
+        "conversation_id": "1620048099740909568",
+        "created_at": "2023-01-30T13:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-30T14:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620055422957916161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1620055422957916161",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1620054684353581057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo 老公"
+      },
+      {
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1620048099740909568",
+        "created_at": "2023-01-30T13:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-30T14:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1620054684353581057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1615831652592422914",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1620054684353581057",
+        "in_reply_to_user_id": "1615831652592422914",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1620048099740909568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 爱你宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-01-18T22:01:14.000Z",
+        "description": "叫我粥粥^ω^我是笨蛋^ ♱只会发疯自残的精神病/什么都发/看心情当黄推✩/88r🚪不过🚪不回私信 互fo不用/大号已炸/出原味和定制伤口/我的宝宝@jiajia1216ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "jiajia1216ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "http://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/n14XodriUq"
+              }
+            ]
+          }
+        },
+        "id": "1615831652592422914",
+        "name": "RuGirll5BaBe1♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1615839826523328514/lPsrgxvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 54,
+          "listed_count": 1,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/n14XodriUq",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "我只是一个贫困的可怜小女孩…//🚪88～//原味在售//小亚是纯天然混血美女～妈妈是泰国人//@KIKOBABY90S 我的混血宝宝❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "KIKOBABY90S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jiajia1216ovo",
+                "end": 23,
+                "expanded_url": "https://t.me/jiajia1216ovo",
+                "start": 0,
+                "url": "https://t.co/uFBfOK9vPc"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "name": "凑 索菲亚",
+        "pinned_tweet_id": "1619759049142321153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619097298251956224/yaCS8MPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 746,
+          "following_count": 36,
+          "listed_count": 3,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/uFBfOK9vPc",
+        "username": "jiajia1216ovo",
+        "verified": false
+      }
+    ]
+  }
+}

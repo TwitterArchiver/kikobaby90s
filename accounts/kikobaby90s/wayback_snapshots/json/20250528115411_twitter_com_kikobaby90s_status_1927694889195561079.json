@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1927694823076880384"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1927694889195561079",
+    "created_at": "2025-05-28T11:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T12:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927694889195561079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Olva06WuMQ",
+          "end": 23,
+          "expanded_url": "https://x.com/kikobaby90s/status/1927694889195561079/video/1",
+          "media_key": "13_1927694823076880384",
+          "start": 0,
+          "url": "https://t.co/Olva06WuMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927694889195561079",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 6,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Olva06WuMQ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1927694889195561079].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1927694889195561079",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1927694889195561079"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13440,
+        "height": 544,
+        "media_key": "13_1927694823076880384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1927694823076880384/img/TuN2AKhDRIogIcZt.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927694823076880384/vid/avc1/476x270/JzlVitPR7f9pk-Um.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927694823076880384/vid/avc1/634x360/sjr7wv1wxlMkKTdO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1927694823076880384/vid/avc1/960x544/dB8qGqavqWKsmQO4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1927694823076880384/pl/20ifwGYcMJk2Lsj4.m3u8"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "1921233094088003656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 30,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 95
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

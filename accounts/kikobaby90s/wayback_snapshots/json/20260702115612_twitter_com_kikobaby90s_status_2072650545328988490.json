@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2071892206307401777",
+    "created_at": "2026-07-02T11:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T12:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072650545328988490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1828109354593406976",
+          "start": 0,
+          "username": "indvidn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072650545328988490",
+    "in_reply_to_user_id": "1828109354593406976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072421000533393603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indvidn 对的 偷用一下家里小狗的尿垫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2071892206307401777",
+        "created_at": "2026-07-02T11:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072650545328988490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1828109354593406976",
+              "start": 0,
+              "username": "indvidn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072650545328988490",
+        "in_reply_to_user_id": "1828109354593406976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072421000533393603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indvidn 对的 偷用一下家里小狗的尿垫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828109354593406976",
+        "conversation_id": "2071892206307401777",
+        "created_at": "2026-07-01T20:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T21:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072421000533393603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072421000533393603",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071892206307401777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 这是狗狗的尿垫吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 789,
+          "following_count": 41,
+          "like_count": 346,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T16:37:03.000Z",
+        "description": "",
+        "id": "1828109354593406976",
+        "location": "대한민국",
+        "name": "江南",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829511033859571712/M-Z2PEkW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 21,
+          "like_count": 1770,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "indvidn",
+        "verified": false
+      }
+    ]
+  }
+}

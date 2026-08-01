@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2048772431062659186",
+    "created_at": "2026-04-28T10:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T11:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049080545791898017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883286192575389696",
+          "start": 0,
+          "username": "xjj5201314_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049080545791898017",
+    "in_reply_to_user_id": "1883286192575389696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048821721889935661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjj5201314_ 宝宝我好想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2048772431062659186",
+        "created_at": "2026-04-28T10:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T11:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049080545791898017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883286192575389696",
+              "start": 0,
+              "username": "xjj5201314_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049080545791898017",
+        "in_reply_to_user_id": "1883286192575389696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048821721889935661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjj5201314_ 宝宝我好想你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883286192575389696",
+        "conversation_id": "2048772431062659186",
+        "created_at": "2026-04-27T17:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T18:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048821721889935661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048821721889935661",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048772431062659186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 回来找我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 35,
+          "like_count": 269,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 181
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T22:50:18.000Z",
+        "description": "世界正数第一善良的人 我的前世@ljjjj101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ljjjj101"
+              }
+            ]
+          }
+        },
+        "id": "1883286192575389696",
+        "name": "ho hni",
+        "pinned_tweet_id": "2041667425264136297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883287727036411904/cLL9pyaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1199,
+          "following_count": 258,
+          "like_count": 134,
+          "listed_count": 10,
+          "media_count": 87,
+          "tweet_count": 541
+        },
+        "username": "xjj5201314_",
+        "verified": false
+      }
+    ]
+  }
+}

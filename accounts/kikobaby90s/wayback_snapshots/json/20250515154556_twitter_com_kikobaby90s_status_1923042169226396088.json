@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923042160103821312"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1923042169226396088",
+    "created_at": "2025-05-15T15:45:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-15T16:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1923042169226396088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qsEARYFMh0",
+          "end": 23,
+          "expanded_url": "https://x.com/kikobaby90s/status/1923042169226396088/photo/1",
+          "media_key": "3_1923042160103821312",
+          "start": 0,
+          "url": "https://t.co/qsEARYFMh0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1923042169226396088",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/qsEARYFMh0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1044,
+        "media_key": "3_1923042160103821312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrAEp-kWkAAKR0S.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923042160103821312"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "1923042169226396088",
+        "created_at": "2025-05-15T15:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-15T16:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923042169226396088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qsEARYFMh0",
+              "end": 23,
+              "expanded_url": "https://x.com/kikobaby90s/status/1923042169226396088/photo/1",
+              "media_key": "3_1923042160103821312",
+              "start": 0,
+              "url": "https://t.co/qsEARYFMh0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923042169226396088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qsEARYFMh0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩",
+        "id": "1745165412441206784",
+        "location": "🚪128 私信只回口令",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 23,
+          "like_count": 88,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 50
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1974124923242332402",
+    "created_at": "2025-10-07T10:56:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T11:56:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975515635628298428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1956940832776638464",
+          "start": 0,
+          "username": "RMSSS188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975515635628298428",
+    "in_reply_to_user_id": "1956940832776638464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975502850332778872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RMSSS188 啦啦啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1974124923242332402",
+        "created_at": "2025-10-07T10:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975515635628298428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1956940832776638464",
+              "start": 0,
+              "username": "RMSSS188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975515635628298428",
+        "in_reply_to_user_id": "1956940832776638464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975502850332778872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RMSSS188 啦啦啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956940832776638464",
+        "conversation_id": "1974124923242332402",
+        "created_at": "2025-10-07T10:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T11:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975502850332778872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975502850332778872",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974124923242332402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 杂种你不是人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 43,
+          "like_count": 248,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 128
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-17T04:47:11.000Z",
+        "description": "",
+        "id": "1956940832776638464",
+        "name": "刘德华",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969962280596168706/SBcG9MQe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 9
+        },
+        "username": "RMSSS188",
+        "verified": false
+      }
+    ]
+  }
+}

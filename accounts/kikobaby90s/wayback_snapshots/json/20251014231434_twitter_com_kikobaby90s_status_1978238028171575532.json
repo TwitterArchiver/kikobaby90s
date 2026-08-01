@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1977934236465463354",
+    "created_at": "2025-10-14T23:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T00:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978238028171575532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1938916501849022465",
+          "start": 0,
+          "username": "Orin9164"
+        },
+        {
+          "end": 18,
+          "id": "1601088109839806464",
+          "start": 10,
+          "username": "991Otis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978238028171575532",
+    "in_reply_to_user_id": "1938916501849022465",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978115672858050743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orin9164 @991Otis 🙋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1977934236465463354",
+        "created_at": "2025-10-14T23:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T00:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978238028171575532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1938916501849022465",
+              "start": 0,
+              "username": "Orin9164"
+            },
+            {
+              "end": 18,
+              "id": "1601088109839806464",
+              "start": 10,
+              "username": "991Otis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978238028171575532",
+        "in_reply_to_user_id": "1938916501849022465",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978115672858050743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orin9164 @991Otis 🙋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938916501849022465",
+        "conversation_id": "1977934236465463354",
+        "created_at": "2025-10-14T15:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T16:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978115672858050743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1601088109839806464",
+              "start": 0,
+              "username": "991Otis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978115672858050743",
+        "in_reply_to_user_id": "1601088109839806464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5086,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977934236465463354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@991Otis 🚪姐来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 43,
+          "like_count": 252,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 132
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T11:05:04.000Z",
+        "description": "看看世界",
+        "id": "1938916501849022465",
+        "location": "Shanghai",
+        "name": "ORIN",
+        "pinned_tweet_id": "1975217617486102901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938919059686596609/pYI7DXvt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 37,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 130
+        },
+        "username": "Orin9164",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-09T05:35:34.000Z",
+        "description": "infj｜心理脆弱者｜绳缚学习中｜黄文编写体验者｜性爱探索勇士｜健身老炮儿｜泳池饮水冠军｜擦边笨蛋｜吸流浪猫体质｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%8C%95%E7%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%8C%95%E7%8C%B4%E6%A1%83",
+                "start": 0,
+                "url": "https://t.co/zQUOwXJq0G"
+              }
+            ]
+          }
+        },
+        "id": "1601088109839806464",
+        "location": "提问箱👉",
+        "name": "猕猴桃（邪恶版）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855658067511361536/Ge-vivg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 63,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/zQUOwXJq0G",
+        "username": "991Otis",
+        "verified": false
+      }
+    ]
+  }
+}

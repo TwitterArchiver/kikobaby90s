@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2049354477992563014",
+    "created_at": "2026-04-29T09:12:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T10:12:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049416513015169083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883286192575389696",
+          "start": 0,
+          "username": "xjj5201314_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049416513015169083",
+    "in_reply_to_user_id": "1883286192575389696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049354477992563014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjj5201314_ 你给我买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2049354477992563014",
+        "created_at": "2026-04-29T09:12:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T10:12:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049416513015169083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883286192575389696",
+              "start": 0,
+              "username": "xjj5201314_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049416513015169083",
+        "in_reply_to_user_id": "1883286192575389696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049354477992563014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjj5201314_ 你给我买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883286192575389696",
+        "conversation_id": "2049354477992563014",
+        "created_at": "2026-04-29T05:05:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:05:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049354477992563014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049354477992563014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有懂行的我想请教一下现在买黄金合适吗？不是基金股票，就是金镯子。跪求这条飘出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 639,
+          "following_count": 35,
+          "like_count": 270,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 186
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T22:50:18.000Z",
+        "description": "世界正数第一善良的人 我的前世@ljjjj101",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "ljjjj101"
+              }
+            ]
+          }
+        },
+        "id": "1883286192575389696",
+        "name": "ho hni",
+        "pinned_tweet_id": "2041667425264136297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883287727036411904/cLL9pyaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 260,
+          "like_count": 136,
+          "listed_count": 10,
+          "media_count": 87,
+          "tweet_count": 557
+        },
+        "username": "xjj5201314_",
+        "verified": false
+      }
+    ]
+  }
+}

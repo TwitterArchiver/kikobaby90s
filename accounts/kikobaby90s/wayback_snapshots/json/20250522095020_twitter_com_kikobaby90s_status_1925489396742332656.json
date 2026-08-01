@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925489390689861632"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1925489396742332656",
+    "created_at": "2025-05-22T09:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T10:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925489396742332656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jnYGEM9aUC",
+          "end": 29,
+          "expanded_url": "https://x.com/kikobaby90s/status/1925489396742332656/photo/1",
+          "media_key": "3_1925489390689861632",
+          "start": 6,
+          "url": "https://t.co/jnYGEM9aUC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925489396742332656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁给我点钱 https://t.co/jnYGEM9aUC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1925489390689861632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gri2Zi7aQAAFemf.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925489390689861632"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "1925489396742332656",
+        "created_at": "2025-05-22T09:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T10:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925489396742332656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnYGEM9aUC",
+              "end": 29,
+              "expanded_url": "https://x.com/kikobaby90s/status/1925489396742332656/photo/1",
+              "media_key": "3_1925489390689861632",
+              "start": 6,
+              "url": "https://t.co/jnYGEM9aUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925489396742332656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁给我点钱 https://t.co/jnYGEM9aUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 29,
+          "like_count": 135,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 76
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

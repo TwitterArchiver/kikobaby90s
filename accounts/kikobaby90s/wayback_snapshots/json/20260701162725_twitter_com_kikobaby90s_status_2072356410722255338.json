@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072350646725189634",
+        "3_2072350646712647680"
+      ],
+      "media_source_tweet_id": [
+        "2072350655273181219",
+        "2072350655273181219"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2072356410722255338",
+    "created_at": "2026-07-01T16:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072356410722255338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002410613662961664",
+          "start": 3,
+          "username": "shyshy080522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AlapMoyidx",
+          "end": 41,
+          "expanded_url": "https://x.com/shyshy080522/status/2072350655273181219/photo/1",
+          "media_key": "3_2072350646725189634",
+          "start": 18,
+          "url": "https://t.co/AlapMoyidx"
+        },
+        {
+          "display_url": "pic.x.com/AlapMoyidx",
+          "end": 41,
+          "expanded_url": "https://x.com/shyshy080522/status/2072350655273181219/photo/1",
+          "media_key": "3_2072350646712647680",
+          "start": 18,
+          "url": "https://t.co/AlapMoyidx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072356410722255338",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072350655273181219",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shyshy080522: https://t.co/AlapMoyidx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1468,
+        "media_key": "3_2072350646725189634",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ37vQbIAI3bcG.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2072350646712647680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ37vNbwAAnixr.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072350646725189634",
+            "3_2072350646712647680"
+          ],
+          "media_source_tweet_id": [
+            "2072350655273181219",
+            "2072350655273181219"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2072356410722255338",
+        "created_at": "2026-07-01T16:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072356410722255338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002410613662961664",
+              "start": 3,
+              "username": "shyshy080522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlapMoyidx",
+              "end": 41,
+              "expanded_url": "https://x.com/shyshy080522/status/2072350655273181219/photo/1",
+              "media_key": "3_2072350646725189634",
+              "start": 18,
+              "url": "https://t.co/AlapMoyidx"
+            },
+            {
+              "display_url": "pic.x.com/AlapMoyidx",
+              "end": 41,
+              "expanded_url": "https://x.com/shyshy080522/status/2072350655273181219/photo/1",
+              "media_key": "3_2072350646712647680",
+              "start": 18,
+              "url": "https://t.co/AlapMoyidx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072356410722255338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072350655273181219",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shyshy080522: https://t.co/AlapMoyidx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072350646725189634",
+            "3_2072350646712647680"
+          ]
+        },
+        "author_id": "2002410613662961664",
+        "conversation_id": "2072350655273181219",
+        "created_at": "2026-07-01T16:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072350655273181219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AlapMoyidx",
+              "end": 23,
+              "expanded_url": "https://x.com/shyshy080522/status/2072350655273181219/photo/1",
+              "media_key": "3_2072350646725189634",
+              "start": 0,
+              "url": "https://t.co/AlapMoyidx"
+            },
+            {
+              "display_url": "pic.x.com/AlapMoyidx",
+              "end": 23,
+              "expanded_url": "https://x.com/shyshy080522/status/2072350655273181219/photo/1",
+              "media_key": "3_2072350646712647680",
+              "start": 0,
+              "url": "https://t.co/AlapMoyidx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072350655273181219",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AlapMoyidx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 40,
+          "like_count": 334,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "🚪88",
+        "id": "2002410613662961664",
+        "name": "e",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 16,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false
+      }
+    ]
+  }
+}

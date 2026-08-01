@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1888658080763879424"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1888658088666026313",
+    "created_at": "2025-02-09T18:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T19:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888658088666026313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/y29nJJ5Ikm",
+          "end": 30,
+          "expanded_url": "https://x.com/kikobaby90s/status/1888658088666026313/photo/1",
+          "media_key": "3_1888658080763879424",
+          "start": 7,
+          "url": "https://t.co/y29nJJ5Ikm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888658088666026313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "转帖抽个➕v https://t.co/y29nJJ5Ikm"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1888658088666026313].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1888658088666026313",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1888658088666026313"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1656,
+        "media_key": "3_1888658080763879424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjXchJYaIAAkHr2.jpg",
+        "width": 1242
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是死人",
+        "id": "1745165412441206784",
+        "name": "RuGirll5BaBe1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 6,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

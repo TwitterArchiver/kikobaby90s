@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2016453044473598440",
+    "created_at": "2026-01-28T21:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T22:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016630255923118459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1491603709901508615",
+          "start": 0,
+          "username": "HoripseQ"
+        },
+        {
+          "end": 16,
+          "id": "2002274992470585345",
+          "start": 10,
+          "username": "607gy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016630255923118459",
+    "in_reply_to_user_id": "1491603709901508615",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016453044473598440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HoripseQ @607gy 我不行了 咋还有这种人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2016452967071649793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vhSjiWkAEd1B-.jpg",
+        "width": 409
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2016452966933536768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vhSjBbIAALclO.jpg",
+        "width": 409
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2016452967042519040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vhSjbaEAAAkdu.jpg",
+        "width": 412
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2016452966929326080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_vhSjAa4AAUDAO.jpg",
+        "width": 412
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2016453044473598440",
+        "created_at": "2026-01-28T21:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T22:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016630255923118459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1491603709901508615",
+              "start": 0,
+              "username": "HoripseQ"
+            },
+            {
+              "end": 16,
+              "id": "2002274992470585345",
+              "start": 10,
+              "username": "607gy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016630255923118459",
+        "in_reply_to_user_id": "1491603709901508615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016453044473598440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HoripseQ @607gy 我不行了 咋还有这种人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016452967071649793",
+            "3_2016452966933536768",
+            "3_2016452967042519040",
+            "3_2016452966929326080"
+          ]
+        },
+        "author_id": "1491603709901508615",
+        "conversation_id": "2016453044473598440",
+        "created_at": "2026-01-28T10:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T11:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016453044473598440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "2002274992470585345",
+              "start": 88,
+              "username": "607gy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m5Ncc6QB6y",
+              "end": 169,
+              "expanded_url": "https://x.com/HoripseQ/status/2016453044473598440/photo/1",
+              "media_key": "3_2016452967071649793",
+              "start": 146,
+              "url": "https://t.co/m5Ncc6QB6y"
+            },
+            {
+              "display_url": "pic.x.com/m5Ncc6QB6y",
+              "end": 169,
+              "expanded_url": "https://x.com/HoripseQ/status/2016453044473598440/photo/1",
+              "media_key": "3_2016452966933536768",
+              "start": 146,
+              "url": "https://t.co/m5Ncc6QB6y"
+            },
+            {
+              "display_url": "pic.x.com/m5Ncc6QB6y",
+              "end": 169,
+              "expanded_url": "https://x.com/HoripseQ/status/2016453044473598440/photo/1",
+              "media_key": "3_2016452967042519040",
+              "start": 146,
+              "url": "https://t.co/m5Ncc6QB6y"
+            },
+            {
+              "display_url": "pic.x.com/m5Ncc6QB6y",
+              "end": 169,
+              "expanded_url": "https://x.com/HoripseQ/status/2016453044473598440/photo/1",
+              "media_key": "3_2016452966929326080",
+              "start": 146,
+              "url": "https://t.co/m5Ncc6QB6y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016453044473598440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11586,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "帮大家避雷个骗子🚪姐，一开始发的口令，结果她说领不了，然后用别的方式入的🚪，然后第二天早上发现我没撤口令就偷摸找别人去领，想着背着我多领520，结果找到那个人是我是我新入的门姐@607gy ，我的门姐不知道事情的详情，以为我是要入她的🚪，然后看她很着急就想好心帮她，结果被我们发现后气急败坏 https://t.co/m5Ncc6QB6y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 47,
+          "like_count": 280,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T02:43:43.000Z",
+        "description": "",
+        "id": "1491603709901508615",
+        "name": "Horipse",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1491603878235701250/H3udN4cV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 21,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "HoripseQ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-20T07:09:12.000Z",
+        "description": "谁入第1个🚪",
+        "id": "2002274992470585345",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002882197276196864/MJvv18SI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 644
+        },
+        "username": "607gy",
+        "verified": false
+      }
+    ]
+  }
+}

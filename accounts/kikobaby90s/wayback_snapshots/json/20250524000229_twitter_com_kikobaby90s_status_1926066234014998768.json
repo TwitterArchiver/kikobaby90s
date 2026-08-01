@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1925932535898321373",
+    "created_at": "2025-05-24T00:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T01:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926066234014998768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1631856029771399168",
+          "start": 0,
+          "username": "medicin31809686"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926066234014998768",
+    "in_reply_to_user_id": "1631856029771399168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925932535898321373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicin31809686 就这样碎碎念～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1925932535898321373",
+        "created_at": "2025-05-24T00:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T01:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926066234014998768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1631856029771399168",
+              "start": 0,
+              "username": "medicin31809686"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926066234014998768",
+        "in_reply_to_user_id": "1631856029771399168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925932535898321373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicin31809686 就这样碎碎念～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631856029771399168",
+        "conversation_id": "1925932535898321373",
+        "created_at": "2025-05-23T15:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T16:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925932535898321373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1925932535898321373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "室友室友你不要念经了，你是迪士尼公主还是什么动漫主角啊，为什么天天自言自语啊，一直自言自语，为什么你有内心独白啊你是男主吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 30,
+          "like_count": 144,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 80
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T03:16:22.000Z",
+        "description": "笼中鸟",
+        "id": "1631856029771399168",
+        "location": "我家",
+        "name": "旧多二福",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921246798506577920/A6DW6pug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 68,
+          "like_count": 772,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 134
+        },
+        "username": "medicin31809686",
+        "verified": false
+      }
+    ]
+  }
+}

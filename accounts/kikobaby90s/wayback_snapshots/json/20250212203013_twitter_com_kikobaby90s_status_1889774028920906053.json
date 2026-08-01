@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1889761618747179481",
+    "created_at": "2025-02-12T20:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T21:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889774028920906053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1585204501149110274",
+          "start": 0,
+          "username": "jiajia1216ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889774028920906053",
+    "in_reply_to_user_id": "1585204501149110274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889761618747179481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiajia1216ovo 嘉儿你咋这么惨呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1889761618747179481",
+        "created_at": "2025-02-12T20:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T21:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889774028920906053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1585204501149110274",
+              "start": 0,
+              "username": "jiajia1216ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889774028920906053",
+        "in_reply_to_user_id": "1585204501149110274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889761618747179481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiajia1216ovo 嘉儿你咋这么惨呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1889761618747179481",
+        "created_at": "2025-02-12T19:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T20:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889761618747179481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kiky11223/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kiky11223/status/1889727486650622363",
+              "start": 12,
+              "url": "https://t.co/K8hMGagQUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889761618747179481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889727486650622363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我没有精力和你们计较了 https://t.co/K8hMGagQUz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是死人",
+        "id": "1745165412441206784",
+        "name": "RuGirll5BaBe1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 7,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 18
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "门槛88 188/位 不接爸爸活不接线下没有坐标",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/mGexvdIi1b"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "location": "5.2km",
+        "name": "Sophia",
+        "pinned_tweet_id": "1886135459182727334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889512467509944321/rw1_SPNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12298,
+          "following_count": 394,
+          "like_count": 9064,
+          "listed_count": 16,
+          "media_count": 481,
+          "tweet_count": 2757
+        },
+        "url": "https://t.co/mGexvdIi1b",
+        "username": "jiajia1216ovo",
+        "verified": false
+      }
+    ]
+  }
+}

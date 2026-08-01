@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1977019501427540131",
+    "created_at": "2025-10-11T14:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977019501427540131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639301053215821824",
+          "start": 3,
+          "username": "wzsbwymnb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977019501427540131",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976701894577029278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wzsbwymnb: 果然是经济下行 已经遇不到啥都不问口令就直接甩我私信的🚪哥了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1977019501427540131",
+        "created_at": "2025-10-11T14:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977019501427540131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639301053215821824",
+              "start": 3,
+              "username": "wzsbwymnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977019501427540131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976701894577029278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wzsbwymnb: 果然是经济下行 已经遇不到啥都不问口令就直接甩我私信的🚪哥了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639301053215821824",
+        "conversation_id": "1976701894577029278",
+        "created_at": "2025-10-10T17:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976701894577029278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1976701894577029278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 34612,
+          "like_count": 193,
+          "quote_count": 6,
+          "reply_count": 32,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "果然是经济下行 已经遇不到啥都不问口令就直接甩我私信的🚪哥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 43,
+          "like_count": 248,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 130
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-24T16:20:12.000Z",
+        "description": "🚪88不线下！！！｜梦想是Love & Peace 🤓学会礼貌再开口说话 喜欢我就请我喝杯奶茶",
+        "id": "1639301053215821824",
+        "location": "小狗星球",
+        "name": "失眠电子羊",
+        "pinned_tweet_id": "1976602101724930295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758915684963364864/q6yhGPDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10437,
+          "following_count": 175,
+          "like_count": 1456,
+          "listed_count": 36,
+          "media_count": 193,
+          "tweet_count": 1658
+        },
+        "username": "wzsbwymnb",
+        "verified": false
+      }
+    ]
+  }
+}

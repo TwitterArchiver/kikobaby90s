@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1926646463376794003",
+    "created_at": "2025-05-26T16:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T17:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927042818494566658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1919090536180600832",
+          "start": 0,
+          "username": "sophia84887380"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927042818494566658",
+    "in_reply_to_user_id": "1919090536180600832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926646463376794003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sophia84887380 嘉儿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_1926646454002610177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzSvfqXcAEvtV5.jpg",
+        "width": 987
+      },
+      {
+        "height": 1025,
+        "media_key": "3_1926646453939634176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrzSvfbWgAAhkbn.jpg",
+        "width": 953
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1926646463376794003",
+        "created_at": "2025-05-26T16:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927042818494566658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1919090536180600832",
+              "start": 0,
+              "username": "sophia84887380"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927042818494566658",
+        "in_reply_to_user_id": "1919090536180600832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926646463376794003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sophia84887380 嘉儿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926646454002610177",
+            "3_1926646453939634176"
+          ]
+        },
+        "author_id": "1919090536180600832",
+        "conversation_id": "1926646463376794003",
+        "created_at": "2025-05-25T14:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T15:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926646463376794003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jm9cPZwcOi",
+              "end": 23,
+              "expanded_url": "https://x.com/sophia84887380/status/1926646463376794003/photo/1",
+              "media_key": "3_1926646454002610177",
+              "start": 0,
+              "url": "https://t.co/jm9cPZwcOi"
+            },
+            {
+              "display_url": "pic.x.com/jm9cPZwcOi",
+              "end": 23,
+              "expanded_url": "https://x.com/sophia84887380/status/1926646463376794003/photo/1",
+              "media_key": "3_1926646453939634176",
+              "start": 0,
+              "url": "https://t.co/jm9cPZwcOi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926646463376794003",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 334,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jm9cPZwcOi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "1921233094088003656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 30,
+          "like_count": 164,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 93
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:03:42.000Z",
+        "description": "门槛88/188元 过门槛有福利",
+        "id": "1919090536180600832",
+        "name": "亚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926689864382091265/FsimyYAG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 6,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 8
+        },
+        "username": "sophia84887380",
+        "verified": false
+      }
+    ]
+  }
+}

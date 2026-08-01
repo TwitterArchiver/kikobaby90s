@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974095434625978368"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1969034502836990103",
+    "created_at": "2025-10-03T12:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T13:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974095442381320583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1679126892270477319",
+          "start": 0,
+          "username": "cairenjie520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vtf2oUwdIU",
+          "end": 43,
+          "expanded_url": "https://x.com/kikobaby90s/status/1974095442381320583/photo/1",
+          "media_key": "3_1974095434625978368",
+          "start": 20,
+          "url": "https://t.co/Vtf2oUwdIU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974095442381320583",
+    "in_reply_to_user_id": "1679126892270477319",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973799327123620213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cairenjie520 惨遭封号🌚 https://t.co/Vtf2oUwdIU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974095434625978368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2VlVq2aEAAcSKH.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974095434625978368"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "1969034502836990103",
+        "created_at": "2025-10-03T12:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974095442381320583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1679126892270477319",
+              "start": 0,
+              "username": "cairenjie520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vtf2oUwdIU",
+              "end": 43,
+              "expanded_url": "https://x.com/kikobaby90s/status/1974095442381320583/photo/1",
+              "media_key": "3_1974095434625978368",
+              "start": 20,
+              "url": "https://t.co/Vtf2oUwdIU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974095442381320583",
+        "in_reply_to_user_id": "1679126892270477319",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973799327123620213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cairenjie520 惨遭封号🌚 https://t.co/Vtf2oUwdIU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679126892270477319",
+        "conversation_id": "1969034502836990103",
+        "created_at": "2025-10-02T17:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T18:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973799327123620213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973799327123620213",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969034502836990103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 有IG吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128 不闲聊 找我闲聊拉黑",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 43,
+          "like_count": 250,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 121
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-12T13:53:53.000Z",
+        "description": "",
+        "id": "1679126892270477319",
+        "name": "Jay",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915596928055681024/p8iiTJ3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 362,
+          "like_count": 522,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "cairenjie520",
+        "verified": false
+      }
+    ]
+  }
+}

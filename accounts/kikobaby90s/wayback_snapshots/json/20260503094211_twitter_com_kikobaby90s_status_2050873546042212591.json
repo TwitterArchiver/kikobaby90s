@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2013660444473598053",
+    "created_at": "2026-05-03T09:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T10:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050873546042212591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2029901205787557888",
+          "start": 0,
+          "username": "0xRoy66"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050873546042212591",
+    "in_reply_to_user_id": "2029901205787557888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050853267979309536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xRoy66 金b➕啦啦啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1672,
+        "media_key": "3_2050853257711669248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYYLAhbUAA_3SG.jpg",
+        "width": 1338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2013660444473598053",
+        "created_at": "2026-05-03T09:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T10:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050873546042212591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2029901205787557888",
+              "start": 0,
+              "username": "0xRoy66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050873546042212591",
+        "in_reply_to_user_id": "2029901205787557888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050853267979309536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xRoy66 金b➕啦啦啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050853257711669248"
+          ]
+        },
+        "author_id": "2029901205787557888",
+        "conversation_id": "2013660444473598053",
+        "created_at": "2026-05-03T08:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T09:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050853267979309536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPYD5JkccC",
+              "end": 43,
+              "expanded_url": "https://x.com/0xRoy66/status/2050853267979309536/photo/1",
+              "media_key": "3_2050853257711669248",
+              "start": 20,
+              "url": "https://t.co/zPYD5JkccC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050853267979309536",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013660444473598053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 现在多少了？ https://t.co/zPYD5JkccC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 37,
+          "like_count": 277,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T12:45:46.000Z",
+        "description": "街车车手  |  CS玩家  |  新手交易员  |  旅行记录\n有一家改装店和一堆不算优秀的圈速、\n一大堆CS智障操作、\n高达1%的交易胜率、\n和没人报销的旅行账单。\n-\n希望能与人沟通\n享受对其颗粒度的过程",
+        "id": "2029901205787557888",
+        "location": "大连",
+        "name": "R.Roy66",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046223250330648576/pSI1Iv_X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 40,
+          "like_count": 69,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 38
+        },
+        "username": "0xRoy66",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075194952934641664"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2075194975634292831",
+    "created_at": "2026-07-09T12:26:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T13:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075194975634292831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aBWGTfkv3p",
+          "end": 41,
+          "expanded_url": "https://x.com/kikobaby90s/status/2075194975634292831/photo/1",
+          "media_key": "3_2075194952934641664",
+          "start": 18,
+          "url": "https://t.co/aBWGTfkv3p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075194975634292831",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "miss that summer🫠 https://t.co/aBWGTfkv3p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2075194952934641664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMyS0JlaUAAqBDr.jpg",
+        "width": 778
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075194952934641664"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2075194975634292831",
+        "created_at": "2026-07-09T12:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T13:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075194975634292831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aBWGTfkv3p",
+              "end": 41,
+              "expanded_url": "https://x.com/kikobaby90s/status/2075194975634292831/photo/1",
+              "media_key": "3_2075194952934641664",
+              "start": 18,
+              "url": "https://t.co/aBWGTfkv3p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075194975634292831",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "miss that summer🫠 https://t.co/aBWGTfkv3p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 840,
+          "following_count": 43,
+          "like_count": 375,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 230
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

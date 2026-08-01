@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059195259381506048"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2059195276666224890",
+    "created_at": "2026-05-26T08:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059195276666224890"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wD1Q9TAoYA",
+          "end": 27,
+          "expanded_url": "https://x.com/kikobaby90s/status/2059195276666224890/photo/1",
+          "media_key": "3_2059195259381506048",
+          "start": 4,
+          "url": "https://t.co/wD1Q9TAoYA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059195276666224890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "雅虎～ https://t.co/wD1Q9TAoYA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059195259381506048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO7LaaaYAAvoBT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059195259381506048"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2059195276666224890",
+        "created_at": "2026-05-26T08:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059195276666224890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wD1Q9TAoYA",
+              "end": 27,
+              "expanded_url": "https://x.com/kikobaby90s/status/2059195276666224890/photo/1",
+              "media_key": "3_2059195259381506048",
+              "start": 4,
+              "url": "https://t.co/wD1Q9TAoYA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059195276666224890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雅虎～ https://t.co/wD1Q9TAoYA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 36,
+          "like_count": 283,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 195
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

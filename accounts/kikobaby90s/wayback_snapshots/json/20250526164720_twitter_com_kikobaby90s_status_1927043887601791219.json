@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1927043876570710017"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "1927043887601791219",
+    "created_at": "2025-05-26T16:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T17:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927043887601791219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zUievSqlTI",
+          "end": 43,
+          "expanded_url": "https://x.com/kikobaby90s/status/1927043887601791219/photo/1",
+          "media_key": "3_1927043876570710017",
+          "start": 20,
+          "url": "https://t.co/zUievSqlTI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927043887601791219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我怎么这么没有绘画天赋 丑的我不想说话 https://t.co/zUievSqlTI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1927043876570710017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gr48MiGWwAEf-yf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927043876570710017"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "1927043887601791219",
+        "created_at": "2025-05-26T16:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T17:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927043887601791219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zUievSqlTI",
+              "end": 43,
+              "expanded_url": "https://x.com/kikobaby90s/status/1927043887601791219/photo/1",
+              "media_key": "3_1927043876570710017",
+              "start": 20,
+              "url": "https://t.co/zUievSqlTI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927043887601791219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么这么没有绘画天赋 丑的我不想说话 https://t.co/zUievSqlTI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "很平易近人的一个小女孩🚪128",
+        "id": "1745165412441206784",
+        "location": "成都",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "1921233094088003656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 30,
+          "like_count": 165,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 94
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

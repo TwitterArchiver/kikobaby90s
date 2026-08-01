@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2046259818793664553",
+    "created_at": "2026-04-24T20:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T21:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047777570222149777"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1564018835006492672",
+          "start": 0,
+          "username": "juanjuanb1ng"
+        },
+        {
+          "end": 25,
+          "id": "1149206176783065088",
+          "start": 14,
+          "username": "Pink16Dick"
+        },
+        {
+          "end": 38,
+          "id": "1658103683974848516",
+          "start": 26,
+          "username": "xinlilvzhou"
+        },
+        {
+          "end": 53,
+          "id": "2032802107745824768",
+          "start": 39,
+          "username": "guangzhouxidu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047777570222149777",
+    "in_reply_to_user_id": "1564018835006492672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046650138446504057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@juanjuanb1ng @Pink16Dick @xinlilvzhou @guangzhouxidu 我去我们完全相反 我讨厌cbd让我变困变饿 每次都是挑选thc含量最高的stativa🫠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2046259818793664553",
+        "created_at": "2026-04-24T20:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T21:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047777570222149777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1564018835006492672",
+              "start": 0,
+              "username": "juanjuanb1ng"
+            },
+            {
+              "end": 25,
+              "id": "1149206176783065088",
+              "start": 14,
+              "username": "Pink16Dick"
+            },
+            {
+              "end": 38,
+              "id": "1658103683974848516",
+              "start": 26,
+              "username": "xinlilvzhou"
+            },
+            {
+              "end": 53,
+              "id": "2032802107745824768",
+              "start": 39,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047777570222149777",
+        "in_reply_to_user_id": "1564018835006492672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046650138446504057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@juanjuanb1ng @Pink16Dick @xinlilvzhou @guangzhouxidu 我去我们完全相反 我讨厌cbd让我变困变饿 每次都是挑选thc含量最高的stativa🫠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564018835006492672",
+        "conversation_id": "2046259818793664553",
+        "created_at": "2026-04-21T17:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T18:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046650138446504057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1149206176783065088",
+              "start": 0,
+              "username": "Pink16Dick"
+            },
+            {
+              "end": 24,
+              "id": "1658103683974848516",
+              "start": 12,
+              "username": "xinlilvzhou"
+            },
+            {
+              "end": 39,
+              "id": "2032802107745824768",
+              "start": 25,
+              "username": "guangzhouxidu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046650138446504057",
+        "in_reply_to_user_id": "1149206176783065088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046432777952997439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pink16Dick @xinlilvzhou @guangzhouxidu 我在美国确实随便吃（国内不要学）亢奋的stativa我吃了很难受 腿会抽抽 镇静的indica我用了还行 但是也不是舒服那一挂的。。。尤其是THC会让我眼睛特别干涩所以体验很差。。。而且THC如果吃多了很焦虑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 42,
+          "like_count": 269,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 179
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T22:35:29.000Z",
+        "description": "天哪这简直是我",
+        "id": "1564018835006492672",
+        "name": "卷卷",
+        "pinned_tweet_id": "1763056126269227376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011982718373187584/IDcRxZIn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5394,
+          "following_count": 149,
+          "like_count": 13434,
+          "listed_count": 23,
+          "media_count": 100,
+          "tweet_count": 1037
+        },
+        "username": "juanjuanb1ng",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-11T06:37:58.000Z",
+        "description": "",
+        "id": "1149206176783065088",
+        "location": "TOKYO",
+        "name": "粉色的蒂克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559697736483885057/b8bae6tm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 117,
+          "like_count": 1063,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 210
+        },
+        "username": "Pink16Dick",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T13:35:11.000Z",
+        "description": "建立绿洲、开发绿洲、飞行绿洲",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xinlilvzhou",
+                "end": 23,
+                "expanded_url": "https://t.me/xinlilvzhou",
+                "start": 0,
+                "url": "https://t.co/K8gaCUDofI"
+              }
+            ]
+          }
+        },
+        "id": "1658103683974848516",
+        "location": "美国",
+        "name": "午夜飞行员",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018732413552107520/syC1n4FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 5,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 199
+        },
+        "url": "https://t.co/K8gaCUDofI",
+        "username": "xinlilvzhou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-14T12:53:56.000Z",
+        "description": "广州市吸毒局吸毒支队官方推特号，药圈民办派出所 私信常开，接受投稿 报案，不出售任何产品，谨防骗子，反诈安全宣传一刻不容停息，关注局长 防范骗局",
+        "id": "2032802107745824768",
+        "name": "广州吸毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032802565499637760/AQs27st5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 658,
+          "following_count": 34,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "username": "guangzhouxidu",
+        "verified": false
+      }
+    ]
+  }
+}

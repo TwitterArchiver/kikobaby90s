@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077394110089138176",
+        "3_2077394110055677952"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2077394131345940880",
+    "created_at": "2026-07-15T14:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077394131345940880"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1pSmjnOzN0",
+          "end": 28,
+          "expanded_url": "https://x.com/kikobaby90s/status/2077394131345940880/photo/1",
+          "media_key": "3_2077394110089138176",
+          "start": 5,
+          "url": "https://t.co/1pSmjnOzN0"
+        },
+        {
+          "display_url": "pic.x.com/1pSmjnOzN0",
+          "end": 28,
+          "expanded_url": "https://x.com/kikobaby90s/status/2077394131345940880/photo/1",
+          "media_key": "3_2077394110055677952",
+          "start": 5,
+          "url": "https://t.co/1pSmjnOzN0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077394131345940880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的心肝 https://t.co/1pSmjnOzN0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077394110089138176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRi78ZaEAAcA7T.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077394110055677952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRi78RbgAA0KPs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077394110089138176",
+            "3_2077394110055677952"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2077394131345940880",
+        "created_at": "2026-07-15T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077394131345940880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1pSmjnOzN0",
+              "end": 28,
+              "expanded_url": "https://x.com/kikobaby90s/status/2077394131345940880/photo/1",
+              "media_key": "3_2077394110089138176",
+              "start": 5,
+              "url": "https://t.co/1pSmjnOzN0"
+            },
+            {
+              "display_url": "pic.x.com/1pSmjnOzN0",
+              "end": 28,
+              "expanded_url": "https://x.com/kikobaby90s/status/2077394131345940880/photo/1",
+              "media_key": "3_2077394110055677952",
+              "start": 5,
+              "url": "https://t.co/1pSmjnOzN0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077394131345940880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的心肝 https://t.co/1pSmjnOzN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 51,
+          "like_count": 425,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

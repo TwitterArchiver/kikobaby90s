@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2072363055523197109",
+    "created_at": "2026-07-01T16:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072363055523197109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858298014877859840",
+          "start": 3,
+          "username": "nvwumaomao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072363055523197109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071861406434013391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nvwumaomao: 生男鸨多又纵容男鸨，只生不教的地儿确实容易出虐待动物的天阉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2072363055523197109",
+        "created_at": "2026-07-01T16:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072363055523197109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858298014877859840",
+              "start": 3,
+              "username": "nvwumaomao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072363055523197109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071861406434013391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nvwumaomao: 生男鸨多又纵容男鸨，只生不教的地儿确实容易出虐待动物的天阉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858298014877859840",
+        "conversation_id": "2071861406434013391",
+        "created_at": "2026-06-30T07:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071861406434013391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071861406434013391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1284,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "生男鸨多又纵容男鸨，只生不教的地儿确实容易出虐待动物的天阉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 784,
+          "following_count": 40,
+          "like_count": 335,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 216
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-17T23:56:00.000Z",
+        "description": "2024年11月8号重启号 radfem/10bt万岁🎉小小姥子",
+        "id": "1858298014877859840",
+        "name": "女巫的猫1118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858298186978439168/L7G-yN4A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 39,
+          "like_count": 701,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "nvwumaomao",
+        "verified": false
+      }
+    ]
+  }
+}

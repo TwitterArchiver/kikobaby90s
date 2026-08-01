@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014011832844075008"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2014011886183072172",
+    "created_at": "2026-01-21T16:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014011886183072172"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z7nb9QbvYy",
+          "end": 30,
+          "expanded_url": "https://x.com/kikobaby90s/status/2014011886183072172/video/1",
+          "media_key": "13_2014011832844075008",
+          "start": 7,
+          "url": "https://t.co/Z7nb9QbvYy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014011886183072172",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "chill～ https://t.co/Z7nb9QbvYy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4033,
+        "height": 1280,
+        "media_key": "13_2014011832844075008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014011832844075008/img/RMCU_ZR_NBnm0Nfp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014011832844075008/vid/avc1/320x568/9qe5cFzdbVOyxpoq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014011832844075008/vid/avc1/480x852/-IZpL9gN-1yHe_hJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014011832844075008/vid/avc1/720x1280/V_bJ6kUg9ux8nGaG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014011832844075008/pl/LGvvWDPdUctJpE2u.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014011832844075008"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2014011886183072172",
+        "created_at": "2026-01-21T16:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014011886183072172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z7nb9QbvYy",
+              "end": 30,
+              "expanded_url": "https://x.com/kikobaby90s/status/2014011886183072172/video/1",
+              "media_key": "13_2014011832844075008",
+              "start": 7,
+              "url": "https://t.co/Z7nb9QbvYy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014011886183072172",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "chill～ https://t.co/Z7nb9QbvYy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良 🚪128",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6Xbmw"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 43,
+          "like_count": 260,
+          "listed_count": 2,
+          "media_count": 29,
+          "tweet_count": 157
+        },
+        "url": "https://t.co/IQ4Lz6Xbmw",
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}

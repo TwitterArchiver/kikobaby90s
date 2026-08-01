@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "1902440409365922238",
+    "created_at": "2025-03-19T19:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T20:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902440409365922238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1346772279099678720",
+          "start": 3,
+          "username": "ypypiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902440409365922238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901877831015268851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ypypiii: 昨晚惹她生气了，被掐个半死，血液积在头顶要爆炸了，丝毫没有呼吸和发声的余地，要晕了又被很重的耳光扇醒…反复几次又被直接掐着脖子推倒在床上暴操，想坐起来被直接掐死，窒息感、濒死感和下体带来的爽感直接把我弄哭了，被发泄到没有力气起来，还是被强制推开双腿继续…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "1902440409365922238",
+        "created_at": "2025-03-19T19:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T20:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902440409365922238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1346772279099678720",
+              "start": 3,
+              "username": "ypypiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902440409365922238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901877831015268851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ypypiii: 昨晚惹她生气了，被掐个半死，血液积在头顶要爆炸了，丝毫没有呼吸和发声的余地，要晕了又被很重的耳光扇醒…反复几次又被直接掐着脖子推倒在床上暴操，想坐起来被直接掐死，窒息感、濒死感和下体带来的爽感直接把我弄哭了，被发泄到没有力气起来，还是被强制推开双腿继续…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346772279099678720",
+        "conversation_id": "1901877831015268851",
+        "created_at": "2025-03-18T06:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-18T07:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901877831015268851"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1901877831015268851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 142057,
+          "like_count": 893,
+          "quote_count": 6,
+          "reply_count": 18,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚惹她生气了，被掐个半死，血液积在头顶要爆炸了，丝毫没有呼吸和发声的余地，要晕了又被很重的耳光扇醒…反复几次又被直接掐着脖子推倒在床上暴操，想坐起来被直接掐死，窒息感、濒死感和下体带来的爽感直接把我弄哭了，被发泄到没有力气起来，还是被强制推开双腿继续…湿到穿戴进去都不用润滑…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是死人",
+        "id": "1745165412441206784",
+        "name": "RuGirll5BaBe1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 9,
+          "like_count": 22,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 22
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T10:55:16.000Z",
+        "description": "le🌈御姐0.69｜设计湿·随意记录·转帖拉黑·极度厌男!类似男性账号一律屏蔽!",
+        "id": "1346772279099678720",
+        "name": "ypypiii",
+        "pinned_tweet_id": "1595162910552391681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550489772858019840/IS17m1qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28928,
+          "following_count": 148,
+          "like_count": 1717,
+          "listed_count": 28,
+          "media_count": 6,
+          "tweet_count": 172
+        },
+        "username": "ypypiii",
+        "verified": false
+      }
+    ]
+  }
+}

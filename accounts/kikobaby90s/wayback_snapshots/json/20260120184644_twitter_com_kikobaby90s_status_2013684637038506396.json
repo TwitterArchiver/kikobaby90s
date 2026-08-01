@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2013660444473598053",
+    "created_at": "2026-01-20T18:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T19:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013684637038506396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1776820525383442432",
+          "start": 0,
+          "username": "bobitouda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013684637038506396",
+    "in_reply_to_user_id": "1776820525383442432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013675837321564607",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bobitouda 我刚从a掉下来 我不甘心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2013660444473598053",
+        "created_at": "2026-01-20T18:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013684637038506396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1776820525383442432",
+              "start": 0,
+              "username": "bobitouda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013684637038506396",
+        "in_reply_to_user_id": "1776820525383442432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013675837321564607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bobitouda 我刚从a掉下来 我不甘心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776820525383442432",
+        "conversation_id": "2013660444473598053",
+        "created_at": "2026-01-20T18:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013675837321564607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013675837321564607",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013661001032651011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 这打啥等几天在打连败的概率概率会很大你匹配的估计是五个你段位最高对面五个估计是或者长期a的很容易连败等几天在打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我很温良",
+        "id": "1745165412441206784",
+        "location": "028",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 42,
+          "like_count": 255,
+          "listed_count": 2,
+          "media_count": 26,
+          "tweet_count": 151
+        },
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T03:53:36.000Z",
+        "description": "哈哈啥哈哈",
+        "id": "1776820525383442432",
+        "location": "青岛",
+        "name": "hahaha",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777342268070100992/jwyKsGhE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 72,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "bobitouda",
+        "verified": false
+      }
+    ]
+  }
+}

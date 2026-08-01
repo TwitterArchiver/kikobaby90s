@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2072342687483846865",
+    "created_at": "2026-07-01T15:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072342687483846865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "622036546",
+          "start": 3,
+          "username": "Overdose_Rx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072342687483846865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072243489727992236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Overdose_Rx: OD（过量服药）变得普遍之后，可能确实给社会带来了一些麻烦，但我觉得自杀率绝对是下降了。特别是年轻女孩。\n不管是OD还是什么，只要有“可以逃避现实的出口”，都是非常重要的事情。\n“有不会走向死亡的选择真的太好了，比死掉好太多了。”\n这句话是我的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2072342687483846865",
+        "created_at": "2026-07-01T15:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072342687483846865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "622036546",
+              "start": 3,
+              "username": "Overdose_Rx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072342687483846865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072243489727992236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Overdose_Rx: OD（过量服药）变得普遍之后，可能确实给社会带来了一些麻烦，但我觉得自杀率绝对是下降了。特别是年轻女孩。\n不管是OD还是什么，只要有“可以逃避现实的出口”，都是非常重要的事情。\n“有不会走向死亡的选择真的太好了，比死掉好太多了。”\n这句话是我的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "622036546",
+        "conversation_id": "2072243489727992236",
+        "created_at": "2026-07-01T08:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072243489727992236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072243489727992236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1991,
+          "like_count": 91,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "OD（过量服药）变得普遍之后，可能确实给社会带来了一些麻烦，但我觉得自杀率绝对是下降了。特别是年轻女孩。\n不管是OD还是什么，只要有“可以逃避现实的出口”，都是非常重要的事情。\n“有不会走向死亡的选择真的太好了，比死掉好太多了。”\n这句话是我的主治医生对我说的，一直深深留在我的心里。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Y_51_R",
+                "end": 23,
+                "expanded_url": "https://t.me/Y_51_R",
+                "start": 0,
+                "url": "https://t.co/IQ4Lz6XJc4"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 40,
+          "like_count": 332,
+          "listed_count": 2,
+          "media_count": 43,
+          "tweet_count": 214
+        },
+        "url": "https://t.co/IQ4Lz6XJc4",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "药物报告及相关投稿请私信 | 提供免费药物咨询 | 药物文化研究 | 成瘾问题咨询和支持 | 安全用药知识 · 减害信息 | 世另我 @sacred1124 | 提问账号 @Overdose_Rc | 官号 @Psycho_Wiki | 社群：https://t.co/uRB7PdGquY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "sacred1124"
+              },
+              {
+                "end": 98,
+                "start": 86,
+                "username": "Overdose_Rc"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "Psycho_Wiki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/gfchxhnm",
+                "end": 145,
+                "expanded_url": "http://t.me/gfchxhnm",
+                "start": 122,
+                "url": "https://t.co/uRB7PdGquY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychoactive.day",
+                "end": 23,
+                "expanded_url": "http://psychoactive.day",
+                "start": 0,
+                "url": "https://t.co/726ooQNAiR"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "伊甸园",
+        "name": "椎名Shiina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3011,
+          "following_count": 114,
+          "like_count": 11687,
+          "listed_count": 8,
+          "media_count": 719,
+          "tweet_count": 4272
+        },
+        "url": "https://t.co/726ooQNAiR",
+        "username": "Overdose_Rx",
+        "verified": false
+      }
+    ]
+  }
+}

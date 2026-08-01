@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081261492176080896"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2081261509616017607",
+    "created_at": "2026-07-26T06:13:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:13:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081261509616017607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/36CgYN4e3s",
+          "end": 23,
+          "expanded_url": "https://x.com/kikobaby90s/status/2081261509616017607/photo/1",
+          "media_key": "3_2081261492176080896",
+          "start": 0,
+          "url": "https://t.co/36CgYN4e3s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081261509616017607",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/36CgYN4e3s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081261492176080896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOIgTNXa0AAvSWS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081261492176080896"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2081261509616017607",
+        "created_at": "2026-07-26T06:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081261509616017607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/36CgYN4e3s",
+              "end": 23,
+              "expanded_url": "https://x.com/kikobaby90s/status/2081261509616017607/photo/1",
+              "media_key": "3_2081261492176080896",
+              "start": 0,
+              "url": "https://t.co/36CgYN4e3s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081261509616017607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/36CgYN4e3s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "CA",
+              "full_name": "Vancouver, British Columbia, Canada",
+              "geo": {
+                "coordinates": [
+                  -123.11934,
+                  49.24966
+                ],
+                "type": "Point"
+              },
+              "locality": "Vancouver",
+              "region": "British Columbia"
+            }
+          ]
+        },
+        "description": "我很温良 🚪128/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "Vancouver",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 56,
+          "like_count": 462,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "kikobaby90s",
+        "verified": false
+      }
+    ]
+  }
+}
