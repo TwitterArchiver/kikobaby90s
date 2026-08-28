@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2090419226578243584"
+      ],
+      "media_source_tweet_id": [
+        "2090419804775588006"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2090495825357025771",
+    "created_at": "2026-08-20T17:46:58.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:46:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090495825357025771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1084526175727185920",
+          "start": 3,
+          "username": "yukominami520"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fXYEs3hzG8",
+          "end": 47,
+          "expanded_url": "https://x.com/yukominami520/status/2090419804775588006/video/1",
+          "media_key": "13_2090419226578243584",
+          "start": 24,
+          "url": "https://t.co/fXYEs3hzG8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090495825357025771",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2090419226578243584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090419804775588006",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukominami520: 我当S： https://t.co/fXYEs3hzG8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14650,
+        "height": 640,
+        "media_key": "13_2090419226578243584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090419226578243584/img/n3eE8DGDPuHdg_vf.jpg",
+        "public_metrics": {
+          "view_count": 2137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090419226578243584/vid/avc1/320x568/25UBjmjOYn-HKjxX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090419226578243584/vid/avc1/360x640/_00pumaXCSkrNCMG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090419226578243584/pl/rASZORCXDnz0XpBm.m3u8?v=9c9"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090419226578243584"
+          ],
+          "media_source_tweet_id": [
+            "2090419804775588006"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2090495825357025771",
+        "created_at": "2026-08-20T17:46:58.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090495825357025771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1084526175727185920",
+              "start": 3,
+              "username": "yukominami520"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXYEs3hzG8",
+              "end": 47,
+              "expanded_url": "https://x.com/yukominami520/status/2090419804775588006/video/1",
+              "media_key": "13_2090419226578243584",
+              "start": 24,
+              "url": "https://t.co/fXYEs3hzG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090495825357025771",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090419226578243584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090419804775588006",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukominami520: 我当S： https://t.co/fXYEs3hzG8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090419226578243584"
+          ]
+        },
+        "author_id": "1084526175727185920",
+        "conversation_id": "2090419804775588006",
+        "created_at": "2026-08-20T12:44:54.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090419804775588006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXYEs3hzG8",
+              "end": 28,
+              "expanded_url": "https://x.com/yukominami520/status/2090419804775588006/video/1",
+              "media_key": "13_2090419226578243584",
+              "start": 5,
+              "url": "https://t.co/fXYEs3hzG8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090419804775588006",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2090419226578243584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5908,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 96,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我当S： https://t.co/fXYEs3hzG8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2090495825357025771",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 96,
+          "like_count": 1093,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-13T19:02:44.000Z",
+        "description": "enfp不快乐小咪丨天蝎丨168cm 75kg丨年龄是永远18岁丨屁话巨多的碎碎念大王\r一个喜欢欣赏美好肉体的淳朴小女孩😋只是爱说骚话我真的不看🐮不yp不陪聊\n防走丢小号@Minamiovo520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "Minamiovo520"
+              }
+            ]
+          }
+        },
+        "id": "1084526175727185920",
+        "is_identity_verified": false,
+        "location": "老婆的怀里",
+        "most_recent_tweet_id": "2090483086660153680",
+        "name": "Yukominami",
+        "pinned_tweet_id": "2089406502306206027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1084526175727185920/1778304000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059467800499122176/fQznr4xS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 502,
+          "like_count": 19132,
+          "listed_count": 3,
+          "media_count": 1604,
+          "tweet_count": 7202
+        },
+        "url": "",
+        "username": "yukominami520",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

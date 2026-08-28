@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2082826764800434573",
+    "created_at": "2026-07-31T06:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T07:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083084336769937680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674815010852470784",
+          "start": 0,
+          "username": "tom666nov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083084336769937680",
+    "in_reply_to_user_id": "1674815010852470784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083062731071213906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tom666nov 哦哦哦哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2082826764800434573",
+        "created_at": "2026-07-31T06:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T07:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083084336769937680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674815010852470784",
+              "start": 0,
+              "username": "tom666nov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083084336769937680",
+        "in_reply_to_user_id": "1674815010852470784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083062731071213906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tom666nov 哦哦哦哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674815010852470784",
+        "conversation_id": "2082826764800434573",
+        "created_at": "2026-07-31T05:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T06:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083062731071213906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "kikobaby90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083062731071213906",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082826764800434573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikobaby90s 请一直作为一道很深的中分就在我的生命里吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1134,
+          "following_count": 68,
+          "like_count": 537,
+          "listed_count": 3,
+          "media_count": 53,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T16:19:57.000Z",
+        "description": "私信都会看｜长沙｜07｜188｜🚪52",
+        "id": "1674815010852470784",
+        "name": "Tom",
+        "pinned_tweet_id": "1776856585207451946",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674815847309938694/-2o5V4Fy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 24,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 313
+        },
+        "url": "",
+        "username": "tom666nov",
+        "verified": false
+      }
+    ]
+  }
+}

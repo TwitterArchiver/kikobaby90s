@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2082854188644704553",
+    "created_at": "2026-08-01T02:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T03:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083385014868169109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "818786755478327298",
+          "start": 0,
+          "username": "Kodak20l9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083385014868169109",
+    "in_reply_to_user_id": "818786755478327298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082854188644704553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kodak20l9 你小子还挺挑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2082854188644704553",
+        "created_at": "2026-08-01T02:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083385014868169109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "818786755478327298",
+              "start": 0,
+              "username": "Kodak20l9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083385014868169109",
+        "in_reply_to_user_id": "818786755478327298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082854188644704553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kodak20l9 你小子还挺挑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "818786755478327298",
+        "conversation_id": "2082854188644704553",
+        "created_at": "2026-07-30T15:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082854188644704553"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082854188644704553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 172,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有毛的不看，欧美的不看，日本的不看，韩国的也不看，奶子小的不看，有方言的不看，高清摄像机拍的不看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1142,
+          "following_count": 77,
+          "like_count": 563,
+          "listed_count": 3,
+          "media_count": 51,
+          "tweet_count": 306
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-10T11:49:09.000Z",
+        "description": "拍照的",
+        "id": "818786755478327298",
+        "location": "杭州",
+        "name": "Cyberdog",
+        "pinned_tweet_id": "1846006965249757359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739578712469929984/dA8EtkwJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 106,
+          "like_count": 3489,
+          "listed_count": 6,
+          "media_count": 71,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "Kodak20l9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2092068028867305681",
+    "created_at": "2026-08-25T01:54:21.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092068028867305681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989123877537214464",
+          "start": 3,
+          "username": "varauxk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092068028867305681",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6519
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091699511605506486",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @varauxk: the earth gave us weed and mushrooms and ppl still do coke"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2092068028867305681",
+        "created_at": "2026-08-25T01:54:21.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092068028867305681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989123877537214464",
+              "start": 3,
+              "username": "varauxk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092068028867305681",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091699511605506486",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @varauxk: the earth gave us weed and mushrooms and ppl still do coke"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989123877537214464",
+        "conversation_id": "2091699511605506486",
+        "created_at": "2026-08-24T01:30:00.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091699511605506486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091699511605506486",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1048,
+          "impression_count": 753483,
+          "like_count": 58500,
+          "quote_count": 309,
+          "reply_count": 286,
+          "retweet_count": 6519
+        },
+        "reply_settings": "everyone",
+        "text": "the earth gave us weed and mushrooms and ppl still do coke"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2092068028867305681",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 105,
+          "like_count": 1188,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 451
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-14T00:11:34.000Z",
+        "description": "",
+        "id": "1989123877537214464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092067695747539222",
+        "name": "unknown",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1989123877537214464/1787613510",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 557,
+          "like_count": 1364,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "varauxk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

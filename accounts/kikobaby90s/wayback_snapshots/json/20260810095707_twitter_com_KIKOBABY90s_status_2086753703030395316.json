@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2086658883330924566",
+    "created_at": "2026-08-10T09:57:07.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T10:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086753703030395316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2057019696495665152",
+          "start": 0,
+          "username": "nun_cat420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086753703030395316",
+    "in_reply_to_user_id": "2057019696495665152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086749800360513757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nun_cat420 换了换了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2086658883330924566",
+        "created_at": "2026-08-10T09:57:07.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086753703030395316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2057019696495665152",
+              "start": 0,
+              "username": "nun_cat420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086753703030395316",
+        "in_reply_to_user_id": "2057019696495665152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086749800360513757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nun_cat420 换了换了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057019696495665152",
+        "conversation_id": "2086658883330924566",
+        "created_at": "2026-08-10T09:41:36.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T10:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086749800360513757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086749800360513757",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086658883330924566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 有两颗徒长了 要换盆了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2086753703030395316",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1399,
+          "following_count": 96,
+          "like_count": 875,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T08:46:13.000Z",
+        "description": "支持大麻合法化/除罪化/醫療大麻用途/娛樂大麻用途/貓貓青草店/TG7年老平台出圈拓客\n理想是全国各个城市有100个客人\n欢迎加入猫猫青草乐园！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Nun_cat420",
+                "end": 23,
+                "expanded_url": "https://t.me/Nun_cat420",
+                "start": 0,
+                "url": "https://t.co/pftzXzBfnP"
+              }
+            ]
+          }
+        },
+        "id": "2057019696495665152",
+        "is_identity_verified": false,
+        "location": "猫猫机长👩‍✈️",
+        "most_recent_tweet_id": "2086749800360513757",
+        "name": "猫猫青草420(大麻/thc电子烟)",
+        "pinned_tweet_id": "2085683905068409163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057019696495665152/1783688895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057021554748428288/iIN7uxCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 68,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/pftzXzBfnP",
+        "username": "nun_cat420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

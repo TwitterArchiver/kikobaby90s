@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2082703553966321838",
+    "created_at": "2026-07-30T05:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082703553966321838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diaryforarmani…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/diaryforarmani/status/2082613957571817641",
+          "start": 5,
+          "url": "https://t.co/FY9nqwbiFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082703553966321838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082613957571817641",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "need https://t.co/FY9nqwbiFe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2082703553966321838",
+        "created_at": "2026-07-30T05:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082703553966321838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diaryforarmani…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/diaryforarmani/status/2082613957571817641",
+              "start": 5,
+              "url": "https://t.co/FY9nqwbiFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082703553966321838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082613957571817641",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "need https://t.co/FY9nqwbiFe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "445858930",
+        "conversation_id": "2082613957571817641",
+        "created_at": "2026-07-29T23:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T00:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082613957571817641"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082613957571817641",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 86829,
+          "like_count": 4057,
+          "quote_count": 94,
+          "reply_count": 42,
+          "retweet_count": 845
+        },
+        "reply_settings": "everyone",
+        "text": "i wanna get fucked til i cry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 68,
+          "like_count": 527,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "kikobaby90s",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-25T00:19:13.000Z",
+        "description": "hot girl, hot thoughts 🫧ig: diaryofarmani",
+        "id": "445858930",
+        "location": "Atlanta, GA",
+        "name": "#aubreysangel",
+        "pinned_tweet_id": "1049495909317431298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992298769367388160/ib1yIPV-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 449,
+          "like_count": 98227,
+          "listed_count": 9,
+          "media_count": 55,
+          "tweet_count": 96618
+        },
+        "url": "",
+        "username": "diaryforarmani",
+        "verified": false
+      }
+    ]
+  }
+}

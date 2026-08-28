@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088291589718499328",
+        "3_2088291589743575040"
+      ],
+      "media_source_tweet_id": [
+        "2088291598463652182",
+        "2088291598463652182"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2090033989478436947",
+    "created_at": "2026-08-19T11:11:48.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090033989478436947"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 95,
+          "start": 89,
+          "tag": "大自然礼物"
+        },
+        {
+          "end": 99,
+          "start": 96,
+          "tag": "抽奖"
+        },
+        {
+          "end": 106,
+          "start": 100,
+          "tag": "420文化"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2057019696495665152",
+          "start": 3,
+          "username": "nun_cat420"
+        }
+      ],
+      "urls": [
+        {
+          "description": "歡迎各位420朋朋到🐱這裡做客💌售全中國一二線熱門城市🍃/招收各大一二線城市代理/埋包業務合作 双向联系@Nuncat420Bot 📢频道 https://t.me/maocao_420",
+          "display_url": "t.me/Nun_cat420",
+          "end": 87,
+          "expanded_url": "https://t.me/Nun_cat420",
+          "images": [
+            {
+              "height": 320,
+              "url": "https://pbs.twimg.com/news_img/2088291645406220288/51Wu0Vk1?format=jpg&name=orig",
+              "width": 320
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2088291645406220288/51Wu0Vk1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 64,
+          "status": 200,
+          "title": "X猫猫青草機長👩‍✈️",
+          "unwound_url": "https://t.me/Nun_cat420",
+          "url": "https://t.co/XjBR89I3N3"
+        },
+        {
+          "display_url": "pic.x.com/I1U2BHvq5L",
+          "end": 130,
+          "expanded_url": "https://x.com/nun_cat420/status/2088291598463652182/photo/1",
+          "media_key": "3_2088291589718499328",
+          "start": 107,
+          "url": "https://t.co/I1U2BHvq5L"
+        },
+        {
+          "display_url": "pic.x.com/I1U2BHvq5L",
+          "end": 130,
+          "expanded_url": "https://x.com/nun_cat420/status/2088291598463652182/photo/1",
+          "media_key": "3_2088291589743575040",
+          "start": 107,
+          "url": "https://t.co/I1U2BHvq5L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090033989478436947",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088291589718499328"
+      },
+      {
+        "media_key": "3_2088291589743575040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088291598463652182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nun_cat420: 成都福袋🍃 抽奖活动来袭. 🎰 🎁\n转发 点赞 关注 ✅\n揪3个🎰 🎰 🎰  \n截图发送到✈️ https://t.co/XjBR89I3N3 \n#大自然礼物 #抽奖 #420文化 https://t.co/I1U2BHvq5L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2088291589718499328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsaIvibYAAQxts.jpg",
+        "width": 960
+      },
+      {
+        "height": 960,
+        "media_key": "3_2088291589743575040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsaIvoaAAAU0Pq.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088291589718499328",
+            "3_2088291589743575040"
+          ],
+          "media_source_tweet_id": [
+            "2088291598463652182",
+            "2088291598463652182"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2090033989478436947",
+        "created_at": "2026-08-19T11:11:48.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090033989478436947"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 95,
+              "start": 89,
+              "tag": "大自然礼物"
+            },
+            {
+              "end": 99,
+              "start": 96,
+              "tag": "抽奖"
+            },
+            {
+              "end": 106,
+              "start": 100,
+              "tag": "420文化"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2057019696495665152",
+              "start": 3,
+              "username": "nun_cat420"
+            }
+          ],
+          "urls": [
+            {
+              "description": "歡迎各位420朋朋到🐱這裡做客💌售全中國一二線熱門城市🍃/招收各大一二線城市代理/埋包業務合作 双向联系@Nuncat420Bot 📢频道 https://t.me/maocao_420",
+              "display_url": "t.me/Nun_cat420",
+              "end": 87,
+              "expanded_url": "https://t.me/Nun_cat420",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2088291645406220288/51Wu0Vk1?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088291645406220288/51Wu0Vk1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "X猫猫青草機長👩‍✈️",
+              "unwound_url": "https://t.me/Nun_cat420",
+              "url": "https://t.co/XjBR89I3N3"
+            },
+            {
+              "display_url": "pic.x.com/I1U2BHvq5L",
+              "end": 130,
+              "expanded_url": "https://x.com/nun_cat420/status/2088291598463652182/photo/1",
+              "media_key": "3_2088291589718499328",
+              "start": 107,
+              "url": "https://t.co/I1U2BHvq5L"
+            },
+            {
+              "display_url": "pic.x.com/I1U2BHvq5L",
+              "end": 130,
+              "expanded_url": "https://x.com/nun_cat420/status/2088291598463652182/photo/1",
+              "media_key": "3_2088291589743575040",
+              "start": 107,
+              "url": "https://t.co/I1U2BHvq5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090033989478436947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088291589718499328"
+          },
+          {
+            "media_key": "3_2088291589743575040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088291598463652182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nun_cat420: 成都福袋🍃 抽奖活动来袭. 🎰 🎁\n转发 点赞 关注 ✅\n揪3个🎰 🎰 🎰  \n截图发送到✈️ https://t.co/XjBR89I3N3 \n#大自然礼物 #抽奖 #420文化 https://t.co/I1U2BHvq5L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088291589718499328",
+            "3_2088291589743575040"
+          ]
+        },
+        "author_id": "2057019696495665152",
+        "conversation_id": "2088291598463652182",
+        "created_at": "2026-08-14T15:48:10.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T16:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088291598463652182"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 73,
+              "tag": "大自然礼物"
+            },
+            {
+              "end": 83,
+              "start": 80,
+              "tag": "抽奖"
+            },
+            {
+              "end": 90,
+              "start": 84,
+              "tag": "420文化"
+            }
+          ],
+          "urls": [
+            {
+              "description": "歡迎各位420朋朋到🐱這裡做客💌售全中國一二線熱門城市🍃/招收各大一二線城市代理/埋包業務合作 双向联系@Nuncat420Bot 📢频道 https://t.me/maocao_420",
+              "display_url": "t.me/Nun_cat420",
+              "end": 71,
+              "expanded_url": "https://t.me/Nun_cat420",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2088291645406220288/51Wu0Vk1?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2088291645406220288/51Wu0Vk1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "X猫猫青草機長👩‍✈️",
+              "unwound_url": "https://t.me/Nun_cat420",
+              "url": "https://t.co/XjBR89I3N3"
+            },
+            {
+              "display_url": "pic.x.com/I1U2BHvq5L",
+              "end": 114,
+              "expanded_url": "https://x.com/nun_cat420/status/2088291598463652182/photo/1",
+              "media_key": "3_2088291589718499328",
+              "start": 91,
+              "url": "https://t.co/I1U2BHvq5L"
+            },
+            {
+              "display_url": "pic.x.com/I1U2BHvq5L",
+              "end": 114,
+              "expanded_url": "https://x.com/nun_cat420/status/2088291598463652182/photo/1",
+              "media_key": "3_2088291589743575040",
+              "start": 91,
+              "url": "https://t.co/I1U2BHvq5L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088291598463652182",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088291589718499328"
+          },
+          {
+            "media_key": "3_2088291589743575040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 343,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "成都福袋🍃 抽奖活动来袭. 🎰 🎁\n转发 点赞 关注 ✅\n揪3个🎰 🎰 🎰  \n截图发送到✈️ https://t.co/XjBR89I3N3 \n#大自然礼物 #抽奖 #420文化 https://t.co/I1U2BHvq5L"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2090033989478436947",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 95,
+          "like_count": 1075,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 423
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-20T08:46:13.000Z",
+        "description": "支持大麻合法化/除罪化/醫療大麻用途/娛樂大麻用途/貓貓青草店/TG7年老平台出圈拓客\n理想是全国各个城市有100个客人\n欢迎加入猫猫青草乐园！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Nun_cat420",
+                "end": 23,
+                "expanded_url": "https://t.me/Nun_cat420",
+                "start": 0,
+                "url": "https://t.co/pftzXzBfnP"
+              }
+            ]
+          }
+        },
+        "id": "2057019696495665152",
+        "is_identity_verified": false,
+        "location": "猫猫机长👩‍✈️",
+        "most_recent_tweet_id": "2090030384415486179",
+        "name": "猫猫青草420(大麻/thc电子烟)",
+        "pinned_tweet_id": "2085683905068409163",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057019696495665152/1783688895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057021554748428288/iIN7uxCt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 76,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 82
+        },
+        "url": "https://t.co/pftzXzBfnP",
+        "username": "nun_cat420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

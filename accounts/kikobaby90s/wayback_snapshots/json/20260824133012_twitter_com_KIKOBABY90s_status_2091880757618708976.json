@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1612230904298045440"
+      ],
+      "media_source_tweet_id": [
+        "1612230955061706754"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2091880757618708976",
+    "created_at": "2026-08-24T13:30:12.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091880757618708976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1291297691821957121",
+          "start": 3,
+          "username": "Maria_ktwts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bUfkdYrJ13",
+          "end": 65,
+          "expanded_url": "https://x.com/findareaction/status/1612230955061706754/video/1",
+          "media_key": "7_1612230904298045440",
+          "start": 42,
+          "url": "https://t.co/bUfkdYrJ13"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091880757618708976",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "7_1612230904298045440"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11048
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091529849903231271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maria_ktwts: How all of august felt:  https://t.co/bUfkdYrJ13"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3806,
+        "height": 720,
+        "media_key": "7_1612230904298045440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1612230904298045440/pu/img/KP6YYIQAFAD1jk2w.jpg",
+        "public_metrics": {
+          "view_count": 5918516
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1612230904298045440/pu/vid/346x270/WibbR0Z81CwMRUsv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1612230904298045440/pu/vid/462x360/3kEFE3f3IxWEadHC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1612230904298045440/pu/vid/926x720/uc7R-bHie0O9DqWR.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1612230904298045440/pu/pl/WFpojcc7l5ozX_Ov.m3u8?tag=12"
+          }
+        ],
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1612230904298045440"
+          ],
+          "media_source_tweet_id": [
+            "1612230955061706754"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2091880757618708976",
+        "created_at": "2026-08-24T13:30:12.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091880757618708976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1291297691821957121",
+              "start": 3,
+              "username": "Maria_ktwts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUfkdYrJ13",
+              "end": 65,
+              "expanded_url": "https://x.com/findareaction/status/1612230955061706754/video/1",
+              "media_key": "7_1612230904298045440",
+              "start": 42,
+              "url": "https://t.co/bUfkdYrJ13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091880757618708976",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1612230904298045440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11048
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091529849903231271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maria_ktwts: How all of august felt:  https://t.co/bUfkdYrJ13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1612230904298045440"
+          ],
+          "media_source_tweet_id": [
+            "1612230955061706754"
+          ]
+        },
+        "author_id": "1291297691821957121",
+        "conversation_id": "2091529849903231271",
+        "created_at": "2026-08-23T14:15:49.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:15:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091529849903231271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bUfkdYrJ13",
+              "end": 48,
+              "expanded_url": "https://x.com/findareaction/status/1612230955061706754/video/1",
+              "media_key": "7_1612230904298045440",
+              "start": 25,
+              "url": "https://t.co/bUfkdYrJ13"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091529849903231271",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1612230904298045440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5428,
+          "impression_count": 3337699,
+          "like_count": 45616,
+          "quote_count": 618,
+          "reply_count": 164,
+          "retweet_count": 11050
+        },
+        "reply_settings": "everyone",
+        "text": "How all of august felt:  https://t.co/bUfkdYrJ13"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1612230904298045440"
+          ]
+        },
+        "author_id": "1325242980098338816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "With Jimmy Smith, Byron Saxton, and Corey Graves. \n\nPhoto via @WWE",
+              "id": "10000504528",
+              "name": "WWE Monday Night RAW"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "With Michael Cole and Pat McAfee. \n\nPhoto via @WWE",
+              "id": "10001837063",
+              "name": "WWE Friday Night SmackDown"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10028645743",
+              "name": "WWE Monday Night RAW"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Steve Austin",
+              "id": "847508464574242816",
+              "name": "Steve Austin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "WWE",
+              "id": "852587148666589184",
+              "name": "WWE"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An athlete in the world, like Serena Williams or Lionel Messi",
+              "id": "60",
+              "name": "Athlete"
+            },
+            "entity": {
+              "description": "Steve Austin",
+              "id": "847508464574242816",
+              "name": "Steve Austin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544341584474112",
+              "name": "Wrestling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Steve Austin",
+              "id": "847508464574242816",
+              "name": "Steve Austin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "WWE",
+              "id": "852587148666589184",
+              "name": "WWE"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fighting",
+              "id": "1047520229192912896",
+              "name": "Combat sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1383063549619019786",
+              "name": "Famous wrestlers"
+            }
+          }
+        ],
+        "conversation_id": "1612230955061706754",
+        "created_at": "2023-01-08T23:33:08.000Z",
+        "display_text_range": [
+          0,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2023-01-09T00:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1612230955061706754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DGBwqV6oFh",
+              "end": 185,
+              "expanded_url": "https://x.com/findareaction/status/1612230955061706754/video/1",
+              "media_key": "7_1612230904298045440",
+              "start": 162,
+              "url": "https://t.co/DGBwqV6oFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1612230955061706754",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "7_1612230904298045440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 849,
+          "impression_count": 1877004,
+          "like_count": 343,
+          "quote_count": 25,
+          "reply_count": 9,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "WWE wrestler Stone cold Steve Austin beating Mr. (Vince) Vincent Kennedy McMahon broken leg in a hospital and ends up hitting him over the head with a metal bowl https://t.co/DGBwqV6oFh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2091880757618708976",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 104,
+          "like_count": 1177,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-08-06T08:59:07.000Z",
+        "description": "lawyer. \ni am always right go argue with your mother🥱",
+        "id": "1291297691821957121",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091743648702738646",
+        "name": "Maria",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089679331400585217/rY6PjNZP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 381,
+          "like_count": 189618,
+          "listed_count": 1,
+          "media_count": 1257,
+          "tweet_count": 53252
+        },
+        "url": "",
+        "username": "Maria_ktwts",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2084272784805642569",
+    "created_at": "2026-08-03T13:38:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:38:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084272784805642569"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kikobaby1019ov…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/kikobaby1019ovo/status/2084272626684637306",
+          "start": 5,
+          "url": "https://t.co/qPABIKb54Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084272784805642569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084272626684637306",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另一个我 https://t.co/qPABIKb54Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084272619969548288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzS56hbkAAvMPF.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2084272784805642569",
+        "created_at": "2026-08-03T13:38:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:38:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084272784805642569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kikobaby1019ov…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/kikobaby1019ovo/status/2084272626684637306",
+              "start": 5,
+              "url": "https://t.co/qPABIKb54Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084272784805642569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084272626684637306",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另一个我 https://t.co/qPABIKb54Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084272619969548288"
+          ]
+        },
+        "author_id": "2081380282406670336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2084272626684637306",
+        "created_at": "2026-08-03T13:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084272626684637306"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u7FVISyU9R",
+              "end": 28,
+              "expanded_url": "https://x.com/KIKOBABY1019ovo/status/2084272626684637306/photo/1",
+              "media_key": "3_2084272619969548288",
+              "start": 5,
+              "url": "https://t.co/u7FVISyU9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084272626684637306",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是她🤓 https://t.co/u7FVISyU9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1224,
+          "following_count": 83,
+          "like_count": 659,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 305
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-26T14:06:06.000Z",
+        "description": "ooooooooops！",
+        "id": "2081380282406670336",
+        "name": "粥粥ovo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081380691770744832/SAi9MOIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 28,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "KIKOBABY1019ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2083674108168982573",
+    "created_at": "2026-08-01T21:59:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083674108168982573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821140823783960576",
+          "start": 3,
+          "username": "weiaicherry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083674108168982573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083427005035602249",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @weiaicherry: 第一个想到用钳子夹指甲的人是谁....就算我是一条贱狗也受不了这个建构了...做美甲咋没有安全词啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2083674108168982573",
+        "created_at": "2026-08-01T21:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083674108168982573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821140823783960576",
+              "start": 3,
+              "username": "weiaicherry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083674108168982573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083427005035602249",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @weiaicherry: 第一个想到用钳子夹指甲的人是谁....就算我是一条贱狗也受不了这个建构了...做美甲咋没有安全词啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821140823783960576",
+        "conversation_id": "2083427005035602249",
+        "created_at": "2026-08-01T05:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T06:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083427005035602249"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083427005035602249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13775,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "第一个想到用钳子夹指甲的人是谁....就算我是一条贱狗也受不了这个建构了...做美甲咋没有安全词啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 82,
+          "like_count": 609,
+          "listed_count": 3,
+          "media_count": 52,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T11:06:33.000Z",
+        "description": "不约调不约调不约调不约调。纯绿好友位52，不打钱不陪聊ˆ꒳ˆ",
+        "id": "1821140823783960576",
+        "location": "哈尔滨",
+        "name": "霖霖",
+        "pinned_tweet_id": "2083530452430963059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1826960298236162048/XCFudm4F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9047,
+          "following_count": 14,
+          "like_count": 478,
+          "listed_count": 26,
+          "media_count": 81,
+          "tweet_count": 480
+        },
+        "url": "",
+        "username": "weiaicherry",
+        "verified": false
+      }
+    ]
+  }
+}

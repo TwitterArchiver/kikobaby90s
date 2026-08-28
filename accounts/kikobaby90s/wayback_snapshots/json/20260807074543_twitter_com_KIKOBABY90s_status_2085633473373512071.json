@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2085142392404136067",
+    "created_at": "2026-08-07T07:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T08:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085633473373512071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1785222418531024896",
+          "start": 0,
+          "username": "wacreep778"
+        },
+        {
+          "end": 28,
+          "id": "1853249977591730176",
+          "start": 12,
+          "username": "wngjngdng843311"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085633473373512071",
+    "in_reply_to_user_id": "1785222418531024896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085306841958056170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wacreep778 @wngjngdng843311 卧槽啥意思！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2085142392404136067",
+        "created_at": "2026-08-07T07:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T08:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085633473373512071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1785222418531024896",
+              "start": 0,
+              "username": "wacreep778"
+            },
+            {
+              "end": 28,
+              "id": "1853249977591730176",
+              "start": 12,
+              "username": "wngjngdng843311"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085633473373512071",
+        "in_reply_to_user_id": "1785222418531024896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085306841958056170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wacreep778 @wngjngdng843311 卧槽啥意思！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1785222418531024896",
+        "conversation_id": "2085142392404136067",
+        "created_at": "2026-08-06T10:07:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:07:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085306841958056170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1853249977591730176",
+              "start": 0,
+              "username": "wngjngdng843311"
+            },
+            {
+              "end": 29,
+              "id": "1745165412441206784",
+              "start": 17,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085306841958056170",
+        "in_reply_to_user_id": "1853249977591730176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085243522589036851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngjngdng843311 @KIKOBABY90s 狗窝里能搁的住干粮吗🤪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 93,
+          "like_count": 817,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T08:19:47.000Z",
+        "description": "trying to speak English very well\n\nweed🍃sex🫶love💘and freedom🕊️",
+        "id": "1785222418531024896",
+        "location": "Taiwan",
+        "name": "追风筝的淫",
+        "pinned_tweet_id": "2080576527885037734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078344641402040320/YOhPwU6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 33,
+          "like_count": 1237,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 301
+        },
+        "url": "",
+        "username": "wacreep778",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-04T01:36:53.000Z",
+        "description": "探索世界",
+        "id": "1853249977591730176",
+        "name": "东",
+        "pinned_tweet_id": "2082647579884683414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064721793903206401/BfevOGjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 66,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 81
+        },
+        "url": "",
+        "username": "wngjngdng843311",
+        "verified": false
+      }
+    ]
+  }
+}

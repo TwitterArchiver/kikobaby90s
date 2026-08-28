@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1820925764121825280"
+      ],
+      "media_source_tweet_id": [
+        "2084253480986747131"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2084470388583551035",
+    "created_at": "2026-08-04T02:44:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T03:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084470388583551035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1594329207768846337",
+          "start": 3,
+          "username": "stonersvilla"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1UANcRt7Ys",
+          "end": 41,
+          "expanded_url": "https://x.com/stonersvilla/status/2084253480986747131/photo/1",
+          "media_key": "3_1820925764121825280",
+          "start": 18,
+          "url": "https://t.co/1UANcRt7Ys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084470388583551035",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084253480986747131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stonersvilla: https://t.co/1UANcRt7Ys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 947,
+        "media_key": "3_1820925764121825280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUU6VbTWkAANS-u.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820925764121825280"
+          ]
+        },
+        "author_id": "1594329207768846337",
+        "conversation_id": "2084253480986747131",
+        "created_at": "2026-08-03T12:22:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:22:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084253480986747131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UANcRt7Ys",
+              "end": 23,
+              "expanded_url": "https://x.com/stonersvilla/status/2084253480986747131/photo/1",
+              "media_key": "3_1820925764121825280",
+              "start": 0,
+              "url": "https://t.co/1UANcRt7Ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084253480986747131",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 11722,
+          "like_count": 632,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1UANcRt7Ys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820925764121825280"
+          ],
+          "media_source_tweet_id": [
+            "2084253480986747131"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2084470388583551035",
+        "created_at": "2026-08-04T02:44:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084470388583551035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1594329207768846337",
+              "start": 3,
+              "username": "stonersvilla"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UANcRt7Ys",
+              "end": 41,
+              "expanded_url": "https://x.com/stonersvilla/status/2084253480986747131/photo/1",
+              "media_key": "3_1820925764121825280",
+              "start": 18,
+              "url": "https://t.co/1UANcRt7Ys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084470388583551035",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084253480986747131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stonersvilla: https://t.co/1UANcRt7Ys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 87,
+          "like_count": 685,
+          "listed_count": 3,
+          "media_count": 42,
+          "tweet_count": 311
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T13:58:49.000Z",
+        "description": "Culture • Cannabis • Conversation",
+        "id": "1594329207768846337",
+        "location": "☁️",
+        "name": "Stoner Barbie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052550851563032580/-L25ljd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403836,
+          "following_count": 2,
+          "like_count": 12828,
+          "listed_count": 466,
+          "media_count": 15598,
+          "tweet_count": 27337
+        },
+        "url": "",
+        "username": "stonersvilla",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "AE",
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

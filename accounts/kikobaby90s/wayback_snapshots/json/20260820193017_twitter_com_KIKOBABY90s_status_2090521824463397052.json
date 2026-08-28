@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2090421473802698840",
+    "created_at": "2026-08-20T19:30:17.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T20:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090521824463397052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932054193625522176",
+          "start": 0,
+          "username": "6forsaken6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090521824463397052",
+    "in_reply_to_user_id": "1932054193625522176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090421473802698840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6forsaken6 不行了笑的好难受啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2090421396199649280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKrLy9bMAASwkO.jpg",
+        "width": 1220
+      },
+      {
+        "duration_ms": 11864,
+        "height": 720,
+        "media_key": "13_2090421426033713152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090421426033713152/img/yZMEBDwUh9YyB0_t.jpg",
+        "public_metrics": {
+          "view_count": 88226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090421426033713152/vid/avc1/480x270/tNKBY1L51YhPsx4l.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090421426033713152/vid/avc1/640x360/twaXW6hR69J4_HM-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090421426033713152/vid/avc1/1280x720/90Q9GTylJpwaEEI2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090421426033713152/pl/rjXaMT2q2acanQXb.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2090421458648576000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKrPbmaMAAV36_.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2090421466382950402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQKrP4abYAIffNt.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2090421473802698840",
+        "created_at": "2026-08-20T19:30:17.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T20:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090521824463397052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932054193625522176",
+              "start": 0,
+              "username": "6forsaken6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090521824463397052",
+        "in_reply_to_user_id": "1932054193625522176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090421473802698840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6forsaken6 不行了笑的好难受啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090421396199649280",
+            "13_2090421426033713152",
+            "3_2090421458648576000",
+            "3_2090421466382950402"
+          ]
+        },
+        "author_id": "1932054193625522176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090421473802698840",
+        "created_at": "2026-08-20T12:51:32.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090421473802698840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiTd3xuA4T",
+              "end": 61,
+              "expanded_url": "https://x.com/6forsaken6/status/2090421473802698840/video/1",
+              "media_key": "3_2090421396199649280",
+              "start": 38,
+              "url": "https://t.co/CiTd3xuA4T"
+            },
+            {
+              "display_url": "pic.x.com/CiTd3xuA4T",
+              "end": 61,
+              "expanded_url": "https://x.com/6forsaken6/status/2090421473802698840/video/1",
+              "media_key": "13_2090421426033713152",
+              "start": 38,
+              "url": "https://t.co/CiTd3xuA4T"
+            },
+            {
+              "display_url": "pic.x.com/CiTd3xuA4T",
+              "end": 61,
+              "expanded_url": "https://x.com/6forsaken6/status/2090421473802698840/video/1",
+              "media_key": "3_2090421458648576000",
+              "start": 38,
+              "url": "https://t.co/CiTd3xuA4T"
+            },
+            {
+              "display_url": "pic.x.com/CiTd3xuA4T",
+              "end": 61,
+              "expanded_url": "https://x.com/6forsaken6/status/2090421473802698840/video/1",
+              "media_key": "3_2090421466382950402",
+              "start": 38,
+              "url": "https://t.co/CiTd3xuA4T"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2090421473802698840",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090421396199649280"
+          },
+          {
+            "media_key": "13_2090421426033713152"
+          },
+          {
+            "media_key": "3_2090421458648576000"
+          },
+          {
+            "media_key": "3_2090421466382950402"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 164005,
+          "like_count": 763,
+          "quote_count": 9,
+          "reply_count": 246,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "某不知名推友在微信群中分享其自制的小视频遭到的微信的部分功能禁用\n笑死我了 https://t.co/CiTd3xuA4T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2090521824463397052",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1514,
+          "following_count": 96,
+          "like_count": 1104,
+          "listed_count": 3,
+          "media_count": 61,
+          "tweet_count": 429
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-09T12:36:37.000Z",
+        "description": "ENTP/爱看百合/tomorin/废物吉他手(兼没用的贝斯手)/木柜子痴/马克思主义者/交友互fo一定要私信\n\nhttps://t.co/RYdboBzlGB     喵喵喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/forsaken48477",
+                "end": 80,
+                "expanded_url": "http://ngl.link/forsaken48477",
+                "start": 57,
+                "url": "https://t.co/RYdboBzlGB"
+              }
+            ]
+          }
+        },
+        "id": "1932054193625522176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090473534917398971",
+        "name": "常凯申（淡推ing）",
+        "pinned_tweet_id": "2067677786752614637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1932054193625522176/1781394559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053420265867239424/YR7k3Ggn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 210,
+          "like_count": 4205,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "6forsaken6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

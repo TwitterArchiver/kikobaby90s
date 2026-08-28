@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2083794356629033179",
+    "created_at": "2026-08-02T05:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083794356629033179"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2055979656537366528",
+          "start": 3,
+          "username": "loliche_rme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083794356629033179",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083644699399569434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loliche_rme: La weed c'est pas une drogue, c'est un assaisonnement pour la vie. Certains jours manquent juste de sel."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2083794356629033179",
+        "created_at": "2026-08-02T05:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083794356629033179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2055979656537366528",
+              "start": 3,
+              "username": "loliche_rme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083794356629033179",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083644699399569434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loliche_rme: La weed c'est pas une drogue, c'est un assaisonnement pour la vie. Certains jours manquent juste de sel."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055979656537366528",
+        "conversation_id": "2083644699399569434",
+        "created_at": "2026-08-01T20:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T21:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083644699399569434"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083644699399569434",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7373,
+          "like_count": 229,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "La weed c'est pas une drogue, c'est un assaisonnement pour la vie. Certains jours manquent juste de sel."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiDinL"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "location": "🚪128/188/520",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 82,
+          "like_count": 623,
+          "listed_count": 3,
+          "media_count": 49,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/J1sOuiDinL",
+        "username": "KIKOBABY90s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T11:52:36.000Z",
+        "description": "Lola • 22 • 🇫🇷\n420 🍃 | Tattoo lover\nNouveau compte, Twitter m'a ban 😂\nQu'est ce qu'on fou ici ? Je vous le demande",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "loliche.vip/lolarme4",
+                "end": 23,
+                "expanded_url": "https://loliche.vip/lolarme4",
+                "start": 0,
+                "url": "https://t.co/UHlRYeLW0H"
+              }
+            ]
+          }
+        },
+        "id": "2055979656537366528",
+        "location": "Check par là 👇",
+        "name": "Loliche.333",
+        "pinned_tweet_id": "2083277882827145336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055979945990422528/1EiIcux2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 48,
+          "like_count": 1961,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/UHlRYeLW0H",
+        "username": "loliche_rme",
+        "verified": true
+      }
+    ]
+  }
+}

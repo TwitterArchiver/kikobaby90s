@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091546280292134912"
+      ],
+      "media_source_tweet_id": [
+        "2091546285593759788"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2091721302973223361",
+    "created_at": "2026-08-24T02:56:35.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T03:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091721302973223361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2071521604816044032",
+          "start": 3,
+          "username": "MotomiyaCh5ts6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/grCo6TII6q",
+          "end": 62,
+          "expanded_url": "https://x.com/MotomiyaCh5ts6/status/2091546285593759788/photo/1",
+          "media_key": "3_2091546280292134912",
+          "start": 39,
+          "url": "https://t.co/grCo6TII6q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091721302973223361",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091546280292134912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091546285593759788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MotomiyaCh5ts6: 外国人认为中国人上推特be like https://t.co/grCo6TII6q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2091546280292134912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaqQqwaMAAQaL3.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091546280292134912"
+          ],
+          "media_source_tweet_id": [
+            "2091546285593759788"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2091721302973223361",
+        "created_at": "2026-08-24T02:56:35.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091721302973223361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2071521604816044032",
+              "start": 3,
+              "username": "MotomiyaCh5ts6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/grCo6TII6q",
+              "end": 62,
+              "expanded_url": "https://x.com/MotomiyaCh5ts6/status/2091546285593759788/photo/1",
+              "media_key": "3_2091546280292134912",
+              "start": 39,
+              "url": "https://t.co/grCo6TII6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091721302973223361",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091546280292134912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091546285593759788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MotomiyaCh5ts6: 外国人认为中国人上推特be like https://t.co/grCo6TII6q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091546280292134912"
+          ]
+        },
+        "author_id": "2071521604816044032",
+        "conversation_id": "2091546285593759788",
+        "created_at": "2026-08-23T15:21:08.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091546285593759788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/grCo6TII6q",
+              "end": 42,
+              "expanded_url": "https://x.com/MotomiyaCh5ts6/status/2091546285593759788/photo/1",
+              "media_key": "3_2091546280292134912",
+              "start": 19,
+              "url": "https://t.co/grCo6TII6q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091546285593759788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091546280292134912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 108225,
+          "like_count": 1990,
+          "quote_count": 5,
+          "reply_count": 94,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "外国人认为中国人上推特be like https://t.co/grCo6TII6q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2091721302973223361",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 103,
+          "like_count": 1166,
+          "listed_count": 3,
+          "media_count": 62,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-29T09:12:29.000Z",
+        "description": "传统主义者／爱国主义者／反对支黑／精日／殖人／喜欢东亚人",
+        "id": "2071521604816044032",
+        "is_identity_verified": false,
+        "location": "三体星",
+        "most_recent_tweet_id": "2091710758677836269",
+        "name": "汪兆铭（改邪归正）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071521604816044032/1783066547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089866376609685505/qY8WAndY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 258,
+          "like_count": 2385,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1355
+        },
+        "url": "",
+        "username": "MotomiyaCh5ts6",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
