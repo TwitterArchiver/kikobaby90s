@@ -1,11 +1,20 @@
 {
   "name": "RuGirll5BaBe1 ♱",
   "username": "@kikobaby90s",
-  "bio": "我很温良 🚪128/188/520",
-  "location": "Vancouver",
+  "bio": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+  "location": "🚪128/188/520",
   "link": "https://t.me/KIKOBABY90s",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/1745166221732163585/5FN0MYek_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 42,
+        "start": 26,
+        "username": "KIKOBABY1910ovo"
+      }
+    ]
+  }
 }
