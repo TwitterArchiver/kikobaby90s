@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2098637884161183775",
+    "created_at": "2026-09-12T05:46:16.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T06:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098649376230904209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2070011332271718401",
+          "start": 0,
+          "username": "bAOre9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098649376230904209",
+    "in_reply_to_user_id": "2070011332271718401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098637884161183775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bAOre9 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2098637884161183775",
+        "created_at": "2026-09-12T05:46:16.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098649376230904209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2070011332271718401",
+              "start": 0,
+              "username": "bAOre9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098649376230904209",
+        "in_reply_to_user_id": "2070011332271718401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098637884161183775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bAOre9 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070011332271718401",
+        "conversation_id": "2098637884161183775",
+        "created_at": "2026-09-12T05:00:37.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T06:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098637884161183775"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098637884161183775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你配得到爱吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2098649376230904209",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 116,
+          "like_count": 1389,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 503
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-25T05:10:47.000Z",
+        "description": "Naked\n我是豹豹",
+        "id": "2070011332271718401",
+        "is_identity_verified": false,
+        "location": "窝",
+        "most_recent_tweet_id": "2098639234395750797",
+        "name": "bAO",
+        "pinned_tweet_id": "2088700991298543747",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070011332271718401/1787583381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070012526079655936/kwXMQMbm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 29,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 220
+        },
+        "url": "",
+        "username": "bAOre9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

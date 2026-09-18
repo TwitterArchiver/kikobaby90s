@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2099425528549904527",
+    "created_at": "2026-09-15T08:53:19.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T09:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099783611222249726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1986776431482097664",
+          "start": 0,
+          "username": "toocuteowoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099783611222249726",
+    "in_reply_to_user_id": "1986776431482097664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099425528549904527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@toocuteowoii 眼睛尿尿了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2099425528549904527",
+        "created_at": "2026-09-15T08:53:19.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099783611222249726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1986776431482097664",
+              "start": 0,
+              "username": "toocuteowoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099783611222249726",
+        "in_reply_to_user_id": "1986776431482097664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099425528549904527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@toocuteowoii 眼睛尿尿了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986776431482097664",
+        "conversation_id": "2099425528549904527",
+        "created_at": "2026-09-14T09:10:26.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T10:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099425528549904527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099425528549904527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 14901,
+          "like_count": 608,
+          "quote_count": 12,
+          "reply_count": 13,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么这么快就不喜欢我了呢 我还计划着 等我们见面 就去散散步 去蛋糕店买小蛋糕吃 想你陪我拍好看的照片发朋友圈 想和你兜兜风 本来还想等见面一起去旅游的 为此我还特意买了漂亮的衣服 做了很多和你见面的计划 想要和你一直纠缠的我你怎么就不喜欢了 我们还有好多约定都没有完成呢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2099783611222249726",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 120,
+          "like_count": 1476,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 524
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-07T12:43:30.000Z",
+        "description": "烦恼是毛线球\nenfp｜金牛座｜00年｜switch\nna^07!\n欢迎光临我的小星球🪐\nhttps://t.co/JqeiOC1nGf",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%80%E8%A…",
+                "end": 68,
+                "expanded_url": "https://ngl.link/%E4%B8%80%E8%A8%80%E4%B8%8D%E8%8D%B7%E5%8C%85%E8%9B%8B2",
+                "start": 45,
+                "url": "https://t.co/JqeiOC1nGf"
+              }
+            ]
+          }
+        },
+        "id": "1986776431482097664",
+        "is_identity_verified": false,
+        "location": "8023km",
+        "most_recent_tweet_id": "2099779704761028837",
+        "name": "超级限定小咪",
+        "pinned_tweet_id": "2096593301579477373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986776431482097664/1762519935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986776713985134592/u0dJ2KMx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 20,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "toocuteowoii",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

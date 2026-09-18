@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2097613944399478890",
+    "created_at": "2026-09-15T03:52:43.000Z",
+    "display_text_range": [
+      26,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T04:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099707962172289257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1828440273254522883",
+          "start": 0,
+          "username": "tongbb233"
+        },
+        {
+          "end": 25,
+          "id": "1455784742922555395",
+          "start": 11,
+          "username": "lengcuicui119"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099707962172289257",
+    "in_reply_to_user_id": "1828440273254522883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099697618763088210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongbb233 @lengcuicui119 你找到高仿了吧😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2097613944399478890",
+        "created_at": "2026-09-15T03:52:43.000Z",
+        "display_text_range": [
+          26,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099707962172289257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1828440273254522883",
+              "start": 0,
+              "username": "tongbb233"
+            },
+            {
+              "end": 25,
+              "id": "1455784742922555395",
+              "start": 11,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099707962172289257",
+        "in_reply_to_user_id": "1828440273254522883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099697618763088210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongbb233 @lengcuicui119 你找到高仿了吧😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828440273254522883",
+        "conversation_id": "2097613944399478890",
+        "created_at": "2026-09-15T03:11:37.000Z",
+        "display_text_range": [
+          28,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T04:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099697618763088210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            },
+            {
+              "end": 27,
+              "id": "1455784742922555395",
+              "start": 13,
+              "username": "lengcuicui119"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099697618763088210",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097694828440043829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s @lengcuicui119 我在那里买被跑单了。。。。怎么回事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2099707962172289257",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 119,
+          "like_count": 1460,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-27T14:32:00.000Z",
+        "description": "",
+        "id": "1828440273254522883",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2099697618763088210",
+        "name": "ba be_tong",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1828440273254522883/1754224557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828440459821359104/tvXEKaaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 70,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 92
+        },
+        "url": "",
+        "username": "tongbb233",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-03T06:32:05.000Z",
+        "description": "🚪77\n可以叫小杀\n需药私信\n我的旅行报告👇🏻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cuok2zMYEmmg…",
+                "end": 23,
+                "expanded_url": "https://www.kdocs.cn/l/cuok2zMYEmmg?f=301",
+                "start": 0,
+                "url": "https://t.co/zGLTJazxYY"
+              }
+            ]
+          }
+        },
+        "id": "1455784742922555395",
+        "is_identity_verified": false,
+        "location": "✟升天✟",
+        "most_recent_tweet_id": "2099677587505397998",
+        "name": "山本殺し",
+        "pinned_tweet_id": "2094332086392098967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455784742922555395/1765798072",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008231012783067136/2V8VLIlL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 446,
+          "like_count": 3447,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/zGLTJazxYY",
+        "username": "lengcuicui119",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

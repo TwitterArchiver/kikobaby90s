@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2099820819476062216",
+    "created_at": "2026-09-15T13:02:44.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099846376771215674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1533650309456596993",
+          "start": 0,
+          "username": "weed420nb420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099846376771215674",
+    "in_reply_to_user_id": "1533650309456596993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099846002895364319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weed420nb420 为此我买了一个破壁机…我怕手废掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2099820819476062216",
+        "created_at": "2026-09-15T13:02:44.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099846376771215674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1533650309456596993",
+              "start": 0,
+              "username": "weed420nb420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099846376771215674",
+        "in_reply_to_user_id": "1533650309456596993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099846002895364319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weed420nb420 为此我买了一个破壁机…我怕手废掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1533650309456596993",
+        "conversation_id": "2099820819476062216",
+        "created_at": "2026-09-15T13:01:14.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099846002895364319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099846002895364319",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099820819476062216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 全部打碎脱羧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2099846376771215674",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 120,
+          "like_count": 1491,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-06T03:21:53.000Z",
+        "description": "🌿 🍃 大賞\n\nhttps://t.co/kIwgBfjw34\nX -社群建立中\nhttps://t.co/v9JKLfdmLi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/greensky",
+                "end": 31,
+                "expanded_url": "https://t.me/greensky",
+                "start": 8,
+                "url": "https://t.co/kIwgBfjw34"
+              },
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 64,
+                "expanded_url": "https://x.com/i/chat/group_join/g2095921411118469576/69WGfuHOu6",
+                "start": 41,
+                "url": "https://t.co/v9JKLfdmLi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Greensky420",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Greensky420",
+                "start": 0,
+                "url": "https://t.co/wFewFNiXb7"
+              }
+            ]
+          }
+        },
+        "id": "1533650309456596993",
+        "is_identity_verified": false,
+        "location": "nb420",
+        "most_recent_tweet_id": "2099846002895364319",
+        "name": "Greensky（✈️nb420）燃料机长",
+        "pinned_tweet_id": "2048110571049165178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1533650309456596993/1779876966",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048103414727667712/I3v2tKNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 386,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/wFewFNiXb7",
+        "username": "weed420nb420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

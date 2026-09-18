@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095870594244136960",
+        "3_2095870594248257536",
+        "3_2095870594285772803",
+        "3_2095870594164068358"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "conversation_id": "2095870622073082088",
+    "created_at": "2026-09-04T13:44:30.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095870622073082088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2002410613662961664",
+          "start": 5,
+          "username": "shyshy080522"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R71phOzKey",
+          "end": 42,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+          "media_key": "3_2095870594244136960",
+          "start": 19,
+          "url": "https://t.co/R71phOzKey"
+        },
+        {
+          "display_url": "pic.x.com/R71phOzKey",
+          "end": 42,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+          "media_key": "3_2095870594248257536",
+          "start": 19,
+          "url": "https://t.co/R71phOzKey"
+        },
+        {
+          "display_url": "pic.x.com/R71phOzKey",
+          "end": 42,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+          "media_key": "3_2095870594285772803",
+          "start": 19,
+          "url": "https://t.co/R71phOzKey"
+        },
+        {
+          "display_url": "pic.x.com/R71phOzKey",
+          "end": 42,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+          "media_key": "3_2095870594164068358",
+          "start": 19,
+          "url": "https://t.co/R71phOzKey"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095870622073082088",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095870594244136960"
+      },
+      {
+        "media_key": "3_2095870594248257536"
+      },
+      {
+        "media_key": "3_2095870594285772803"
+      },
+      {
+        "media_key": "3_2095870594164068358"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "笑的好难受@shyshy080522 https://t.co/R71phOzKey"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095870594244136960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYHM3kb0AASSph.jpg",
+        "width": 1032
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095870594248257536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYHM3lasAA9ff1.jpg",
+        "width": 934
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2095870594285772803",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYHM3uXIAMJXv2.jpg",
+        "width": 810
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2095870594164068358",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYHM3RWEAYY7dP.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095870594244136960",
+            "3_2095870594248257536",
+            "3_2095870594285772803",
+            "3_2095870594164068358"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "conversation_id": "2095870622073082088",
+        "created_at": "2026-09-04T13:44:30.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095870622073082088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2002410613662961664",
+              "start": 5,
+              "username": "shyshy080522"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R71phOzKey",
+              "end": 42,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+              "media_key": "3_2095870594244136960",
+              "start": 19,
+              "url": "https://t.co/R71phOzKey"
+            },
+            {
+              "display_url": "pic.x.com/R71phOzKey",
+              "end": 42,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+              "media_key": "3_2095870594248257536",
+              "start": 19,
+              "url": "https://t.co/R71phOzKey"
+            },
+            {
+              "display_url": "pic.x.com/R71phOzKey",
+              "end": 42,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+              "media_key": "3_2095870594285772803",
+              "start": 19,
+              "url": "https://t.co/R71phOzKey"
+            },
+            {
+              "display_url": "pic.x.com/R71phOzKey",
+              "end": 42,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2095870622073082088/photo/1",
+              "media_key": "3_2095870594164068358",
+              "start": 19,
+              "url": "https://t.co/R71phOzKey"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095870622073082088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095870594244136960"
+          },
+          {
+            "media_key": "3_2095870594248257536"
+          },
+          {
+            "media_key": "3_2095870594285772803"
+          },
+          {
+            "media_key": "3_2095870594164068358"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "笑的好难受@shyshy080522 https://t.co/R71phOzKey"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2095870622073082088",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 107,
+          "like_count": 1321,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "18｜170/100🚪188 接开盒业务",
+        "id": "2002410613662961664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092998404368744901",
+        "name": "e",
+        "pinned_tweet_id": "2075741015085076728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002410613662961664/1766247041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 31,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

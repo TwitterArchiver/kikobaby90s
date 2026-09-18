@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2093974181482225934",
+    "created_at": "2026-08-30T08:08:43.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093974181482225934"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hi_amhigh/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hi_amhigh/status/2093806396525641975",
+          "start": 11,
+          "url": "https://t.co/jvgt9R55Vi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093974181482225934",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093806396525641975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "毒贩快出来发大麻啊！ https://t.co/jvgt9R55Vi"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 102516,
+        "height": 960,
+        "media_key": "13_2093806014441132032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093806014441132032/img/wIyhLQfhKStsvwEQ.jpg",
+        "public_metrics": {
+          "view_count": 90697
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093806014441132032/vid/avc1/320x426/WMhMj8GRBUgliHx8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093806014441132032/vid/avc1/480x640/55sMr_eJz-3IUrac.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093806014441132032/vid/avc1/720x960/55uylNmI1ZteRHuI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093806014441132032/pl/uYnXWws4453VIunP.m3u8?v=fdc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2093974181482225934",
+        "created_at": "2026-08-30T08:08:43.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093974181482225934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hi_amhigh/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hi_amhigh/status/2093806396525641975",
+              "start": 11,
+              "url": "https://t.co/jvgt9R55Vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093974181482225934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093806396525641975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毒贩快出来发大麻啊！ https://t.co/jvgt9R55Vi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093806014441132032"
+          ]
+        },
+        "author_id": "1584905109888180225",
+        "conversation_id": "2093806396525641975",
+        "created_at": "2026-08-29T21:02:00.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093806396525641975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VXXk43b8Gl",
+              "end": 65,
+              "expanded_url": "https://x.com/hi_amhigh/status/2093806396525641975/video/1",
+              "media_key": "13_2093806014441132032",
+              "start": 42,
+              "url": "https://t.co/VXXk43b8Gl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093806396525641975",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093806014441132032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 475,
+          "impression_count": 65768,
+          "like_count": 2518,
+          "quote_count": 9,
+          "reply_count": 30,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "Take it or double to the next person 😅😂😂🍃 https://t.co/VXXk43b8Gl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2093974181482225934",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1565,
+          "following_count": 106,
+          "like_count": 1301,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-25T13:50:14.000Z",
+        "description": "I'M THE BRAND (life is for living) FREE THE WEED",
+        "id": "1584905109888180225",
+        "is_identity_verified": false,
+        "location": "Where the money at",
+        "most_recent_tweet_id": "2093959632662233131",
+        "name": "HIAMHIGH",
+        "pinned_tweet_id": "2044671461881770063",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584905109888180225/1776013809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007554197265215488/VbKJa_2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22063,
+          "following_count": 2087,
+          "like_count": 39392,
+          "listed_count": 10,
+          "media_count": 6548,
+          "tweet_count": 46229
+        },
+        "url": "",
+        "username": "hi_amhigh",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

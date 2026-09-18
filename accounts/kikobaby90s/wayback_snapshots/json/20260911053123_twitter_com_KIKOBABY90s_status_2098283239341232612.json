@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2098283239341232612",
+    "created_at": "2026-09-11T05:31:23.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T06:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098283239341232612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002410613662961664",
+          "start": 3,
+          "username": "shyshy080522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098283239341232612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097604506376884583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shyshy080522: 对任何事物抱有恐惧心理的绝对不适合致幻剂，其实享受就好了，死亡也不是什么坏事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2098283239341232612",
+        "created_at": "2026-09-11T05:31:23.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098283239341232612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002410613662961664",
+              "start": 3,
+              "username": "shyshy080522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098283239341232612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097604506376884583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shyshy080522: 对任何事物抱有恐惧心理的绝对不适合致幻剂，其实享受就好了，死亡也不是什么坏事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002410613662961664",
+        "conversation_id": "2097604506376884583",
+        "created_at": "2026-09-09T08:34:20.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T09:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097604506376884583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097604506376884583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 158,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对任何事物抱有恐惧心理的绝对不适合致幻剂，其实享受就好了，死亡也不是什么坏事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2098283239341232612",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1627,
+          "following_count": 115,
+          "like_count": 1371,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "18｜170/100｜广州 深圳 川渝🚪188 接开盒业务",
+        "id": "2002410613662961664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098282630160744661",
+        "name": "e",
+        "pinned_tweet_id": "2075741015085076728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002410613662961664/1766247041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 48,
+          "like_count": 105,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093315720750796800"
+      ]
+    },
+    "author_id": "1745165412441206784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2093315735816650961",
+    "created_at": "2026-08-28T12:32:18.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093315735816650961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 22,
+          "id": "1124790071314587648",
+          "start": 9,
+          "username": "LanwujiDrink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jR4lLVLDin",
+          "end": 46,
+          "expanded_url": "https://x.com/KIKOBABY90s/status/2093315735816650961/photo/1",
+          "media_key": "3_2093315720750796800",
+          "start": 23,
+          "url": "https://t.co/jR4lLVLDin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093315735816650961",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093315720750796800"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好好看的贴纸哎呀呀@LanwujiDrink https://t.co/jR4lLVLDin"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093315720750796800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzzjqIXkAAVRG0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093315720750796800"
+          ]
+        },
+        "author_id": "1745165412441206784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093315735816650961",
+        "created_at": "2026-08-28T12:32:18.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093315735816650961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1124790071314587648",
+              "start": 9,
+              "username": "LanwujiDrink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jR4lLVLDin",
+              "end": 46,
+              "expanded_url": "https://x.com/KIKOBABY90s/status/2093315735816650961/photo/1",
+              "media_key": "3_2093315720750796800",
+              "start": 23,
+              "url": "https://t.co/jR4lLVLDin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093315735816650961",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093315720750796800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好好看的贴纸哎呀呀@LanwujiDrink https://t.co/jR4lLVLDin"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2093315735816650961",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 103,
+          "like_count": 1283,
+          "listed_count": 3,
+          "media_count": 64,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "声嘶力竭的促智理想最后变成一具只会盈利的空壳。                         👨‍🔧重度睡眠障碍维修技师",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2093303814480904341",
+        "name": "☯️🧬無極植物科技 葉經理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 84,
+          "like_count": 3365,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1759
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

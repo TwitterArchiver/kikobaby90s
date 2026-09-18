@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2096236804928123372",
+    "created_at": "2026-09-06T01:04:40.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T02:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096404179115790684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1957484941983510534",
+          "start": 0,
+          "username": "soutv420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096404179115790684",
+    "in_reply_to_user_id": "1957484941983510534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096334957161693589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soutv420 好熟悉的名字 是仙姑吗🤨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2096236804928123372",
+        "created_at": "2026-09-06T01:04:40.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096404179115790684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1957484941983510534",
+              "start": 0,
+              "username": "soutv420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096404179115790684",
+        "in_reply_to_user_id": "1957484941983510534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096334957161693589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soutv420 好熟悉的名字 是仙姑吗🤨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957484941983510534",
+        "conversation_id": "2096236804928123372",
+        "created_at": "2026-09-05T20:29:36.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T21:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096334957161693589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096334957161693589",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096236804928123372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 快6g 不小😯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2096404179115790684",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 109,
+          "like_count": 1333,
+          "listed_count": 3,
+          "media_count": 66,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-18T16:49:40.000Z",
+        "description": "網路新聞 笑料 迷因 地獄梗 一次滿足，公共論壇 自由投稿，想要每天呼 加入論壇，電報搜索 roll420bot",
+        "id": "1957484941983510534",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096353746024636590",
+        "name": "420抽了就發帖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1957484941983510534/1787769104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091465686279434240/KXkJYyTY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 19,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "soutv420",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2093724375337861193",
+    "created_at": "2026-08-29T15:36:05.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T16:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093724375337861193"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshinabbis/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/yoshinabbis/status/2093500418793869588",
+          "start": 7,
+          "url": "https://t.co/8UTDqSEvmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093724375337861193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093500418793869588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我每天就这样 https://t.co/8UTDqSEvmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24498,
+        "height": 900,
+        "media_key": "13_2093500388238381056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093500388238381056/img/76LxAkQ2hwWe1pyG.jpg",
+        "public_metrics": {
+          "view_count": 23294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093500388238381056/vid/avc1/320x400/H13TZOaN6xDeuK-u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093500388238381056/vid/avc1/480x600/7stGbpir10Ektr6e.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093500388238381056/vid/avc1/720x900/oVB38MkA2ermyNrf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093500388238381056/pl/P-kXblc3mOxq66Lq.m3u8?v=084"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2093724375337861193",
+        "created_at": "2026-08-29T15:36:05.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093724375337861193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshinabbis/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/yoshinabbis/status/2093500418793869588",
+              "start": 7,
+              "url": "https://t.co/8UTDqSEvmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093724375337861193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093500418793869588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我每天就这样 https://t.co/8UTDqSEvmu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093500388238381056"
+          ]
+        },
+        "author_id": "991325156730638336",
+        "conversation_id": "2093500418793869588",
+        "created_at": "2026-08-29T00:46:09.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093500418793869588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBkriUUr8v",
+              "end": 139,
+              "expanded_url": "https://x.com/yoshinabbis/status/2093500418793869588/video/1",
+              "media_key": "13_2093500388238381056",
+              "start": 116,
+              "url": "https://t.co/GBkriUUr8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093500418793869588",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093500388238381056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 32660,
+          "like_count": 64,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "On days I want to complain about my job, I remember there's someone hand rolling cones all day for next to nothing. https://t.co/GBkriUUr8v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2093724375337861193",
+        "name": "RuGirll5BaBe1 ♱",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 102,
+          "like_count": 1291,
+          "listed_count": 3,
+          "media_count": 65,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-05-01T14:35:10.000Z",
+        "description": "大麻系デザイナー&マーケティング。楽しく大麻の知識を広める人。大麻非犯罪化。日系アメリカ人。考えてる人好き。我以外皆我師なり",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/SamuraiWeed_",
+                "end": 23,
+                "expanded_url": "https://x.com/SamuraiWeed_",
+                "start": 0,
+                "url": "https://t.co/d89g4Nrq4Z"
+              }
+            ]
+          }
+        },
+        "id": "991325156730638336",
+        "is_identity_verified": false,
+        "location": "NYC/Bangkok",
+        "most_recent_tweet_id": "2093546927346352319",
+        "name": "Yoshinabbis (侍)",
+        "pinned_tweet_id": "2067986205107425426",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/991325156730638336/1715456038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033850333026521091/NUlUIu4K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13086,
+          "following_count": 831,
+          "like_count": 105178,
+          "listed_count": 29,
+          "media_count": 3504,
+          "tweet_count": 30025
+        },
+        "url": "https://t.co/d89g4Nrq4Z",
+        "username": "yoshinabbis",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

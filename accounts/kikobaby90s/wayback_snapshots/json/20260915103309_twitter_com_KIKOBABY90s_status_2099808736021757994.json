@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2099498678046085217",
+    "created_at": "2026-09-15T10:33:09.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099808736021757994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2002410613662961664",
+          "start": 0,
+          "username": "shyshy080522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099808736021757994",
+    "in_reply_to_user_id": "2002410613662961664",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099773117879169269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shyshy080522 我要摸你奶子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2099498678046085217",
+        "created_at": "2026-09-15T10:33:09.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099808736021757994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2002410613662961664",
+              "start": 0,
+              "username": "shyshy080522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099808736021757994",
+        "in_reply_to_user_id": "2002410613662961664",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099773117879169269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shyshy080522 我要摸你奶子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002410613662961664",
+        "conversation_id": "2099498678046085217",
+        "created_at": "2026-09-15T08:11:37.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T09:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099773117879169269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099773117879169269",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099498678046085217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 吗的，你还丑，我不用活了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2099808736021757994",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 120,
+          "like_count": 1480,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 525
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "18｜170/100｜广州 深圳 川渝🚪188 接开盒业务",
+        "id": "2002410613662961664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099804033452257434",
+        "name": "e",
+        "pinned_tweet_id": "2075741015085076728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002410613662961664/1766247041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 55,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
