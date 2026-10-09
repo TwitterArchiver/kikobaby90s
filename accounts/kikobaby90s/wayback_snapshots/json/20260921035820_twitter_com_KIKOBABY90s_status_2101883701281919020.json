@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2101883701281919020",
+    "created_at": "2026-09-21T03:58:20.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T04:58:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101883701281919020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084248064727101440",
+          "start": 3,
+          "username": "uiapuoi"
+        },
+        {
+          "end": 25,
+          "id": "1955916052925452288",
+          "start": 13,
+          "username": "berrybun_04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101883701281919020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101289712573087793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uiapuoi: @berrybun_04 我死之前我的肾上腺素一定要给力一点，我要靠着那点肾上腺素把我的推特注销"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2101883701281919020",
+        "created_at": "2026-09-21T03:58:20.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101883701281919020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084248064727101440",
+              "start": 3,
+              "username": "uiapuoi"
+            },
+            {
+              "end": 25,
+              "id": "1955916052925452288",
+              "start": 13,
+              "username": "berrybun_04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101883701281919020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101289712573087793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uiapuoi: @berrybun_04 我死之前我的肾上腺素一定要给力一点，我要靠着那点肾上腺素把我的推特注销"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084248064727101440",
+        "conversation_id": "2101247304334512365",
+        "created_at": "2026-09-19T12:38:02.000Z",
+        "display_text_range": [
+          13,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101289712573087793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955916052925452288",
+              "start": 0,
+              "username": "berrybun_04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101289712573087793",
+        "in_reply_to_user_id": "1955916052925452288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 54646,
+          "like_count": 1497,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101247304334512365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berrybun_04 我死之前我的肾上腺素一定要给力一点，我要靠着那点肾上腺素把我的推特注销"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2101883701281919020",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1654,
+          "following_count": 119,
+          "like_count": 1558,
+          "listed_count": 3,
+          "media_count": 73,
+          "tweet_count": 549
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T12:01:54.000Z",
+        "description": "",
+        "id": "2084248064727101440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101806814765686951",
+        "name": "uisaa骸",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084248660951613440/4CIlhtZL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 2,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "uiapuoi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T08:55:10.000Z",
+        "description": "我好呆萌 好想哭\n另一个我@fadai202202",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "fadai202202"
+              }
+            ]
+          }
+        },
+        "id": "1955916052925452288",
+        "is_identity_verified": false,
+        "location": "你心里",
+        "most_recent_tweet_id": "2101873736102326307",
+        "name": "呆呆",
+        "pinned_tweet_id": "2096785733264769137",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955916052925452288/1776340004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053627084942258176/hlAO1A4E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2214,
+          "following_count": 1,
+          "like_count": 360,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 573
+        },
+        "url": "",
+        "username": "berrybun_04",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

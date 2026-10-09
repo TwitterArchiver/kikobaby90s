@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2106639151407993211",
+    "created_at": "2026-10-04T07:58:35.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106655206029341140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2077713332812083200",
+          "start": 0,
+          "username": "fries420cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106655206029341140",
+    "in_reply_to_user_id": "2077713332812083200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106639151407993211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fries420cn 两天就没有了🌚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2106639131099197442",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxJINca8AIHKqI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2106639151407993211",
+        "created_at": "2026-10-04T07:58:35.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106655206029341140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2077713332812083200",
+              "start": 0,
+              "username": "fries420cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106655206029341140",
+        "in_reply_to_user_id": "2077713332812083200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106639151407993211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fries420cn 两天就没有了🌚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106639131099197442"
+          ]
+        },
+        "author_id": "2077713332812083200",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2106639151407993211",
+        "created_at": "2026-10-04T06:54:47.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106639151407993211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UaMXOpeHYK",
+              "end": 173,
+              "expanded_url": "https://x.com/fries420cn/status/2106639151407993211/photo/1",
+              "media_key": "3_2106639131099197442",
+              "start": 150,
+              "url": "https://t.co/UaMXOpeHYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106639151407993211",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106639131099197442"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "最近发现很多人对 10g 🍃没概念，也不知道能抽多久。\n\n图里是 78mm 卷纸。我自己测过：10g 正常松紧能卷大概 22 支。\n\n别想着压成 10 支。那样会卷太紧，吸起来堵，基本抽不顺。\n\n算一下就有数了： 哪怕一个人啥也不做每天抽。一支大约 0.45g 一个人一天 1 支，能抽三个星期出头 周末才来一根，一个月都未必见底 两个人分着抽，也够十来天\n\n所以 10g 不是尝一口就没了。按能抽的松紧来卷，是能用一阵子的量。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 590,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近发现很多人对 10g 🍃没概念，也不知道能抽多久。\n\n图里是 78mm 卷纸。我自己测过：10g 正常松紧能卷大概 22 支。\n\n别想着压成 10 支。那样会卷太紧，吸起来堵，基本抽不顺。\n\n算一下就有数了： 哪怕一个人啥也不做每天抽。一支大约 0.45g 一个人一天 1 支，能抽三个星期出头 https://t.co/UaMXOpeHYK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2106655206029341140",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 135,
+          "like_count": 1653,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 608
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T11:15:51.000Z",
+        "description": "置顶有入口  | 🚫未成年勿入\n\n平时就爱来根薯条🍟",
+        "id": "2077713332812083200",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106653771866755394",
+        "name": "薯条🍟(大麻)",
+        "pinned_tweet_id": "2106224866709917944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077713332812083200/1790972695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106125497059229696/pTkUSD-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 743,
+          "like_count": 1983,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "fries420cn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

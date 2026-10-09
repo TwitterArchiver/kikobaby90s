@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2106128297612439849",
+    "created_at": "2026-10-03T09:49:40.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106320772260311502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2092378383116095490",
+          "start": 0,
+          "username": "Suzia8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106320772260311502",
+    "in_reply_to_user_id": "2092378383116095490",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106222123480219673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzia8964 有你在真好呀😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2106128297612439849",
+        "created_at": "2026-10-03T09:49:40.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106320772260311502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2092378383116095490",
+              "start": 0,
+              "username": "Suzia8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106320772260311502",
+        "in_reply_to_user_id": "2092378383116095490",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106222123480219673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzia8964 有你在真好呀😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092378383116095490",
+        "conversation_id": "2106128297612439849",
+        "created_at": "2026-10-03T03:17:40.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106222123480219673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106222123480219673",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106128297612439849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 宝宝🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2106320772260311502",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1844,
+          "following_count": 133,
+          "like_count": 1637,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T22:30:11.000Z",
+        "description": "isac三代目，绿色上网杜绝不良行为\nngl：https://t.co/jlixE4H6fI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/isac0219pek",
+                "end": 46,
+                "expanded_url": "https://ngl.link/isac0219pek",
+                "start": 23,
+                "url": "https://t.co/jlixE4H6fI"
+              }
+            ]
+          }
+        },
+        "id": "2092378383116095490",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106232135569047818",
+        "name": "Suzia",
+        "pinned_tweet_id": "2094819321000210603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092378383116095490/1787697127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092379456107114496/nmocd38K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 40,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "Suzia8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2105884408628822512",
+    "created_at": "2026-10-02T10:37:42.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T11:37:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105970472496308425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2103689784304771072",
+          "start": 0,
+          "username": "62Sontos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105970472496308425",
+    "in_reply_to_user_id": "2103689784304771072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105921036290257209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@62Sontos 你也开始做推特啦？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2105884408628822512",
+        "created_at": "2026-10-02T10:37:42.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T11:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105970472496308425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2103689784304771072",
+              "start": 0,
+              "username": "62Sontos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105970472496308425",
+        "in_reply_to_user_id": "2103689784304771072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105921036290257209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@62Sontos 你也开始做推特啦？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103689784304771072",
+        "conversation_id": "2105884408628822512",
+        "created_at": "2026-10-02T07:21:15.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105921036290257209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105921036290257209",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105884408628822512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s 来点查不出来的继续耍起"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2105970472496308425",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1756,
+          "following_count": 127,
+          "like_count": 1607,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-26T03:36:40.000Z",
+        "description": "🌿 Plants & Plant Science\n🔬 分享植物研究、文化与科学资讯\n🌏 关注亚洲大麻政策与合法化进程\n🔞 18+｜仅限成年人\n📚 Knowledge · Research · Education",
+        "id": "2103689784304771072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105921496900358602",
+        "name": "桑托斯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103689784304771072/1790395088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103695593768177664/5cfdiO2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 96,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 110
+        },
+        "url": "",
+        "username": "62Sontos",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

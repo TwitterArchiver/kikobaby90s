@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2103111839408349187",
+    "created_at": "2026-10-02T18:06:21.000Z",
+    "display_text_range": [
+      25,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T19:06:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106083378638233741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048683684191154176",
+          "start": 0,
+          "username": "lsdprettyboy"
+        },
+        {
+          "end": 24,
+          "id": "2087636528633982976",
+          "start": 14,
+          "username": "67De_dian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106083378638233741",
+    "in_reply_to_user_id": "2048683684191154176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106083095707636103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lsdprettyboy @67De_dian 笑的逼逼痛痛呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2103111839408349187",
+        "created_at": "2026-10-02T18:06:21.000Z",
+        "display_text_range": [
+          25,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106083378638233741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048683684191154176",
+              "start": 0,
+              "username": "lsdprettyboy"
+            },
+            {
+              "end": 24,
+              "id": "2087636528633982976",
+              "start": 14,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106083378638233741",
+        "in_reply_to_user_id": "2048683684191154176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106083095707636103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lsdprettyboy @67De_dian 笑的逼逼痛痛呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048683684191154176",
+        "conversation_id": "2103111839408349187",
+        "created_at": "2026-10-02T18:05:13.000Z",
+        "display_text_range": [
+          24,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:05:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106083095707636103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745165412441206784",
+              "start": 0,
+              "username": "KIKOBABY90s"
+            },
+            {
+              "end": 23,
+              "id": "2087636528633982976",
+              "start": 13,
+              "username": "67De_dian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106083095707636103",
+        "in_reply_to_user_id": "1745165412441206784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103293951814054073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KIKOBABY90s @67De_dian 通过你的发言鉴定出你是个土生土长的骨子里的中国人：不能"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2106083378638233741",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 130,
+          "like_count": 1618,
+          "listed_count": 3,
+          "media_count": 84,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T08:41:44.000Z",
+        "description": "我脑子有问题\n🚪 58｜88 没区别，你比较慷慨可以给我更多，不给也行",
+        "id": "2048683684191154176",
+        "is_identity_verified": false,
+        "location": "NOT FOUND",
+        "most_recent_tweet_id": "2106083288834269262",
+        "name": "豆包我全家活了",
+        "pinned_tweet_id": "2102721359889723740",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048683684191154176/1786864787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088889126976417792/e9A6Db_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 202,
+          "like_count": 837,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 308
+        },
+        "url": "",
+        "username": "lsdprettyboy",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-12T20:25:09.000Z",
+        "description": "可以叫我6点。700fo前世@6De_dian\n\n让我明天 将一切重新来 该有多好？\n我一定更不负责任的生活 早知道。\n\n永远偏爱：@Korewoizontoyo\n\n｜双相｜ODer｜oc｜同人｜画手｜负能｜\n发什么随心情\n不见证不争议\n查属性回fo\n药理学爱好正在学习中…\n会尽力回答您的问题，可以私信我哦\npr有售",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 14,
+                "username": "6De_dian"
+              },
+              {
+                "end": 81,
+                "start": 66,
+                "username": "Korewoizontoyo"
+              }
+            ]
+          }
+        },
+        "id": "2087636528633982976",
+        "is_identity_verified": false,
+        "location": "逝去",
+        "most_recent_tweet_id": "2106081417327513689",
+        "name": "绝望_6De点",
+        "pinned_tweet_id": "2087667609223524719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087636528633982976/1786566851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087637037096771584/rJV3QI9C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 493,
+          "like_count": 5127,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1469
+        },
+        "url": "",
+        "username": "67De_dian",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2101240912261300445",
+    "created_at": "2026-09-19T23:54:24.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T00:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101459927948517471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2084201724345204736",
+          "start": 0,
+          "username": "dkcy1109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101459927948517471",
+    "in_reply_to_user_id": "2084201724345204736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101240912261300445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dkcy1109 好萌😻"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2101240912261300445].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2101240912261300445",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2101240912261300445"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2101240912261300445",
+        "created_at": "2026-09-19T23:54:24.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T00:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101459927948517471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2084201724345204736",
+              "start": 0,
+              "username": "dkcy1109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101459927948517471",
+        "in_reply_to_user_id": "2084201724345204736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101240912261300445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dkcy1109 好萌😻"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2101459927948517471",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1651,
+          "following_count": 121,
+          "like_count": 1532,
+          "listed_count": 3,
+          "media_count": 72,
+          "tweet_count": 545
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-03T08:59:13.000Z",
+        "description": "大号@AGZlove8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "AGZlove8964"
+              }
+            ]
+          }
+        },
+        "id": "2084201724345204736",
+        "is_identity_verified": false,
+        "location": "你的马眼里",
+        "most_recent_tweet_id": "2092020527896699318",
+        "name": "大口吃煙",
+        "pinned_tweet_id": "2084629343427575910",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084201724345204736/1787260269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090547128901001216/Gybhk9dz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 56,
+          "like_count": 131,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "dkcy1109",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

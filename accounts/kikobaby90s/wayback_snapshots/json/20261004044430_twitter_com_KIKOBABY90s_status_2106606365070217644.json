@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1745165412441206784",
+    "conversation_id": "2106606365070217644",
+    "created_at": "2026-10-04T04:44:30.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106606365070217644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shyshy080522/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/shyshy080522/status/2102964934237925486",
+          "start": 28,
+          "url": "https://t.co/M36SDRRLtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106606365070217644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102964934237925486",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诡秘我好想你 我把你的房间都收拾干净了 就等你回家呢… https://t.co/M36SDRRLtc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2102964923429253120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS87dLQbcAAELTr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745165412441206784",
+        "conversation_id": "2106606365070217644",
+        "created_at": "2026-10-04T04:44:30.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106606365070217644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shyshy080522/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/shyshy080522/status/2102964934237925486",
+              "start": 28,
+              "url": "https://t.co/M36SDRRLtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106606365070217644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102964934237925486",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诡秘我好想你 我把你的房间都收拾干净了 就等你回家呢… https://t.co/M36SDRRLtc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102964923429253120"
+          ]
+        },
+        "author_id": "2002410613662961664",
+        "conversation_id": "2102964934237925486",
+        "created_at": "2026-09-24T03:34:46.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102964934237925486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/peGlSsmTVx",
+              "end": 27,
+              "expanded_url": "https://x.com/shyshy080522/status/2102964934237925486/photo/1",
+              "media_key": "3_2102964923429253120",
+              "start": 4,
+              "url": "https://t.co/peGlSsmTVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102964934237925486",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102964923429253120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1822,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽起耍 https://t.co/peGlSsmTVx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-10T19:27:27.000Z",
+        "description": "我是粥粥 发点自己想发的 查成分回fo 温良人格ing 爱你们😽\n@KIKOBABY1910ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "KIKOBABY1910ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KIKOBABY90s",
+                "end": 23,
+                "expanded_url": "https://t.me/KIKOBABY90s",
+                "start": 0,
+                "url": "https://t.co/J1sOuiCKyd"
+              }
+            ]
+          }
+        },
+        "id": "1745165412441206784",
+        "is_identity_verified": false,
+        "location": "🚪128/188/520",
+        "most_recent_tweet_id": "2106606365070217644",
+        "name": "RuGirll5BaBe1 ♱",
+        "pinned_tweet_id": "2096893834768584943",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1745165412441206784/1704915071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084268123428098048/lN6B9rBk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 135,
+          "like_count": 1650,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/J1sOuiCKyd",
+        "username": "KIKOBABY90s",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T16:07:55.000Z",
+        "description": "18｜170/100｜广州 深圳 川渝🚪188 接开盒业务",
+        "id": "2002410613662961664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104308505830441358",
+        "name": "e",
+        "pinned_tweet_id": "2075741015085076728",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002410613662961664/1766247041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347148398874624/gK9kkcOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 60,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "shyshy080522",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
